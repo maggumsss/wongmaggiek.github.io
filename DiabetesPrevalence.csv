@@ -1,0 +1,3225 @@
+State,County,FIPSCODE,percent
+Alabama,Autauga County,05000US01001,13
+Alabama,Baldwin County,05000US01003,10.4
+Alabama,Barbour County,05000US01005,18.4
+Alabama,Bibb County,05000US01007,14.8
+Alabama,Blount County,05000US01009,14.1
+Alabama,Bullock County,05000US01011,19.6
+Alabama,Butler County,05000US01013,17.7
+Alabama,Calhoun County,05000US01015,14.9
+Alabama,Chambers County,05000US01017,16.4
+Alabama,Cherokee County,05000US01019,13.3
+Alabama,Chilton County,05000US01021,13.3
+Alabama,Choctaw County,05000US01023,18.1
+Alabama,Clarke County,05000US01025,16.3
+Alabama,Clay County,05000US01027,14.6
+Alabama,Cleburne County,05000US01029,12.6
+Alabama,Coffee County,05000US01031,15.9
+Alabama,Colbert County,05000US01033,18.7
+Alabama,Conecuh County,05000US01035,17.4
+Alabama,Coosa County,05000US01037,17.3
+Alabama,Covington County,05000US01039,14.7
+Alabama,Crenshaw County,05000US01041,16.5
+Alabama,Cullman County,05000US01043,14.4
+Alabama,Dale County,05000US01045,14.1
+Alabama,Dallas County,05000US01047,19
+Alabama,DeKalb County,05000US01049,13.4
+Alabama,Elmore County,05000US01051,13.4
+Alabama,Escambia County,05000US01053,17.8
+Alabama,Etowah County,05000US01055,16.8
+Alabama,Fayette County,05000US01057,15.1
+Alabama,Franklin County,05000US01059,13.9
+Alabama,Geneva County,05000US01061,13.9
+Alabama,Greene County,05000US01063,21
+Alabama,Hale County,05000US01065,16
+Alabama,Henry County,05000US01067,18.7
+Alabama,Houston County,05000US01069,13.7
+Alabama,Jackson County,05000US01071,14.9
+Alabama,Jefferson County,05000US01073,13
+Alabama,Lamar County,05000US01075,14.9
+Alabama,Lauderdale County,05000US01077,14.2
+Alabama,Lawrence County,05000US01079,15.6
+Alabama,Lee County,05000US01081,9.5
+Alabama,Limestone County,05000US01083,12.6
+Alabama,Lowndes County,05000US01085,23.5
+Alabama,Macon County,05000US01087,18.4
+Alabama,Madison County,05000US01089,11.5
+Alabama,Marengo County,05000US01091,20.2
+Alabama,Marion County,05000US01093,18.7
+Alabama,Marshall County,05000US01095,12.8
+Alabama,Mobile County,05000US01097,15.6
+Alabama,Monroe County,05000US01099,17.8
+Alabama,Montgomery County,05000US01101,13.5
+Alabama,Morgan County,05000US01103,12.6
+Alabama,Perry County,05000US01105,21.7
+Alabama,Pickens County,05000US01107,16.4
+Alabama,Pike County,05000US01109,13.5
+Alabama,Randolph County,05000US01111,14.9
+Alabama,Russell County,05000US01113,12.9
+Alabama,St. Clair County,05000US01115,12.8
+Alabama,Shelby County,05000US01117,8.7
+Alabama,Sumter County,05000US01119,20.1
+Alabama,Talladega County,05000US01121,15.3
+Alabama,Tallapoosa County,05000US01123,13.7
+Alabama,Tuscaloosa County,05000US01125,12.3
+Alabama,Walker County,05000US01127,16.7
+Alabama,Washington County,05000US01129,17.8
+Alabama,Wilcox County,05000US01131,19.3
+Alabama,Winston County,05000US01133,13.2
+Alaska,Aleutians East Borough,05000US02013,7.6
+Alaska,Aleutians West,05000US02016,6.2
+Alaska,Anchorage Municipality,05000US02020,7
+Alaska,Bethel Census Area,05000US02050,5.8
+Alaska,Bristol Bay Borough,05000US02060,8.5
+Alaska,Denali Borough,05000US02068,5.8
+Alaska,Dillingham Census Area,05000US02070,7.2
+Alaska,Fairbanks North Star,05000US02090,5.5
+Alaska,Haines Borough,05000US02100,7.9
+Alaska,Hoonah-Angoon 2009 Census,05000US02105,7.3
+Alaska,Juneau City and Borough,05000US02110,5.9
+Alaska,Kenai Peninsula Borough,05000US02122,7.2
+Alaska,Ketchikan Gateway Borough,05000US02130,8.9
+Alaska,Kodiak Island Borough,05000US02150,6.6
+Alaska,Lake and Peninsula Borough,05000US02164,7.4
+Alaska,Matanuska-Susitna Borough,05000US02170,8.2
+Alaska,Nome Census Area,05000US02180,6
+Alaska,North Slope Borough,05000US02185,6.5
+Alaska,Northwest Arctic Borough,05000US02188,6.5
+Alaska,Petersburg 2009 Census,05000US02195,7.1
+Alaska,Prince of Wales-Hyder 2009 Census,05000US02198,7.3
+Alaska,Prince of Wales-Outer K 2004 to 2008 Census,05000US02201,No Data
+Alaska,Sitka City and Borough,05000US02220,6.7
+Alaska,Skagway Municipality 2009 Census,05000US02230,6.4
+Alaska,Hoonah-Angoon 2004 to 2008 Census,05000US02232,No Data
+Alaska,Southeast Fairbanks Census,05000US02240,6.9
+Alaska,Valdez-Cordova Census Area,05000US02261,7.4
+Alaska,Wade Hampton Census Area,05000US02270,4.6
+Alaska,Wrangell City and Borough 2009 Census,05000US02275,8.9
+Alaska,Wrangell-Petersburg 2004 to 2008 Census,05000US02280,No Data
+Alaska,Yakutat City and Borough,05000US02282,7.9
+Alaska,Yukon-Koyukuk Census Area,05000US02290,8.3
+Arizona,Apache County,05000US04001,14.4
+Arizona,Cochise County,05000US04003,10.3
+Arizona,Coconino County,05000US04005,7.6
+Arizona,Gila County,05000US04007,11.2
+Arizona,Graham County,05000US04009,10.3
+Arizona,Greenlee County,05000US04011,10.7
+Arizona,La Paz County,05000US04012,14.8
+Arizona,Maricopa County,05000US04013,9
+Arizona,Mohave County,05000US04015,12.8
+Arizona,Navajo County,05000US04017,13.1
+Arizona,Pima County,05000US04019,8.8
+Arizona,Pinal County,05000US04021,12.3
+Arizona,Santa Cruz County,05000US04023,8
+Arizona,Yavapai County,05000US04025,10.5
+Arizona,Yuma County,05000US04027,12.6
+Arkansas,Arkansas County,05000US05001,12.9
+Arkansas,Ashley County,05000US05003,14.5
+Arkansas,Baxter County,05000US05005,16
+Arkansas,Benton County,05000US05007,9.6
+Arkansas,Boone County,05000US05009,12.4
+Arkansas,Bradley County,05000US05011,13.1
+Arkansas,Calhoun County,05000US05013,13.7
+Arkansas,Carroll County,05000US05015,13
+Arkansas,Chicot County,05000US05017,15.2
+Arkansas,Clark County,05000US05019,11.6
+Arkansas,Clay County,05000US05021,11.1
+Arkansas,Cleburne County,05000US05023,13.5
+Arkansas,Cleveland County,05000US05025,13
+Arkansas,Columbia County,05000US05027,12.9
+Arkansas,Conway County,05000US05029,13.7
+Arkansas,Craighead County,05000US05031,13.1
+Arkansas,Crawford County,05000US05033,11.4
+Arkansas,Crittenden County,05000US05035,15.8
+Arkansas,Cross County,05000US05037,13.6
+Arkansas,Dallas County,05000US05039,14.4
+Arkansas,Desha County,05000US05041,15.1
+Arkansas,Drew County,05000US05043,13.6
+Arkansas,Faulkner County,05000US05045,11.2
+Arkansas,Franklin County,05000US05047,13.8
+Arkansas,Fulton County,05000US05049,15.6
+Arkansas,Garland County,05000US05051,14.5
+Arkansas,Grant County,05000US05053,11.1
+Arkansas,Greene County,05000US05055,12.9
+Arkansas,Hempstead County,05000US05057,13.5
+Arkansas,Hot Spring County,05000US05059,12.2
+Arkansas,Howard County,05000US05061,13.4
+Arkansas,Independence County,05000US05063,13.1
+Arkansas,Izard County,05000US05065,15.5
+Arkansas,Jackson County,05000US05067,12.9
+Arkansas,Jefferson County,05000US05069,15.4
+Arkansas,Johnson County,05000US05071,12.5
+Arkansas,Lafayette County,05000US05073,15.3
+Arkansas,Lawrence County,05000US05075,13.2
+Arkansas,Lee County,05000US05077,13.1
+Arkansas,Lincoln County,05000US05079,12.3
+Arkansas,Little River County,05000US05081,12.9
+Arkansas,Logan County,05000US05083,13.8
+Arkansas,Lonoke County,05000US05085,13.1
+Arkansas,Madison County,05000US05087,11.8
+Arkansas,Marion County,05000US05089,12.2
+Arkansas,Miller County,05000US05091,12.3
+Arkansas,Mississippi County,05000US05093,15.9
+Arkansas,Monroe County,05000US05095,17.2
+Arkansas,Montgomery County,05000US05097,14.3
+Arkansas,Nevada County,05000US05099,13.9
+Arkansas,Newton County,05000US05101,12.8
+Arkansas,Ouachita County,05000US05103,14.8
+Arkansas,Perry County,05000US05105,12.2
+Arkansas,Phillips County,05000US05107,16.7
+Arkansas,Pike County,05000US05109,12.4
+Arkansas,Poinsett County,05000US05111,13.8
+Arkansas,Polk County,05000US05113,13.9
+Arkansas,Pope County,05000US05115,11.2
+Arkansas,Prairie County,05000US05117,14.3
+Arkansas,Pulaski County,05000US05119,12
+Arkansas,Randolph County,05000US05121,12.7
+Arkansas,St. Francis County,05000US05123,16.4
+Arkansas,Saline County,05000US05125,11.8
+Arkansas,Scott County,05000US05127,11.4
+Arkansas,Searcy County,05000US05129,13.4
+Arkansas,Sebastian County,05000US05131,12.9
+Arkansas,Sevier County,05000US05133,12.2
+Arkansas,Sharp County,05000US05135,15.2
+Arkansas,Stone County,05000US05137,12.7
+Arkansas,Union County,05000US05139,13.5
+Arkansas,Van Buren County,05000US05141,12.9
+Arkansas,Washington County,05000US05143,9.1
+Arkansas,White County,05000US05145,10.1
+Arkansas,Woodruff County,05000US05147,14.7
+Arkansas,Yell County,05000US05149,12.9
+California,Alameda County,05000US06001,8.5
+California,Alpine County,05000US06003,10.3
+California,Amador County,05000US06005,10.2
+California,Butte County,05000US06007,10.2
+California,Calaveras County,05000US06009,10
+California,Colusa County,05000US06011,9.6
+California,Contra Costa County,05000US06013,9.4
+California,Del Norte County,05000US06015,8.4
+California,El Dorado County,05000US06017,7.5
+California,Fresno County,05000US06019,9.4
+California,Glenn County,05000US06021,8.4
+California,Humboldt County,05000US06023,8.8
+California,Imperial County,05000US06025,8.3
+California,Inyo County,05000US06027,9.4
+California,Kern County,05000US06029,9.3
+California,Kings County,05000US06031,7.5
+California,Lake County,05000US06033,10.1
+California,Lassen County,05000US06035,7.6
+California,Los Angeles County,05000US06037,9.1
+California,Madera County,05000US06039,7.9
+California,Marin County,05000US06041,7.9
+California,Mariposa County,05000US06043,10.7
+California,Mendocino County,05000US06045,8.4
+California,Merced County,05000US06047,9.2
+California,Modoc County,05000US06049,10.4
+California,Mono County,05000US06051,7.4
+California,Monterey County,05000US06053,7.6
+California,Napa County,05000US06055,8.4
+California,Nevada County,05000US06057,7.7
+California,Orange County,05000US06059,8
+California,Placer County,05000US06061,9
+California,Plumas County,05000US06063,9.8
+California,Riverside County,05000US06065,9
+California,Sacramento County,05000US06067,8.4
+California,San Benito County,05000US06069,7.6
+California,San Bernardino County,05000US06071,9.2
+California,San Diego County,05000US06073,7.7
+California,San Francisco County,05000US06075,7.9
+California,San Joaquin County,05000US06077,10.3
+California,San Luis Obispo County,05000US06079,8.5
+California,San Mateo County,05000US06081,8.3
+California,Santa Barbara County,05000US06083,7.1
+California,Santa Clara County,05000US06085,8.4
+California,Santa Cruz County,05000US06087,7
+California,Shasta County,05000US06089,9.4
+California,Sierra County,05000US06091,9.6
+California,Siskiyou County,05000US06093,8.6
+California,Solano County,05000US06095,9.8
+California,Sonoma County,05000US06097,7.9
+California,Stanislaus County,05000US06099,9.7
+California,Sutter County,05000US06101,8.6
+California,Tehama County,05000US06103,11.2
+California,Trinity County,05000US06105,10.1
+California,Tulare County,05000US06107,8
+California,Tuolumne County,05000US06109,10.1
+California,Ventura County,05000US06111,7.6
+California,Yolo County,05000US06113,6.9
+California,Yuba County,05000US06115,7.6
+Colorado,Adams County,05000US08001,7.2
+Colorado,Alamosa County,05000US08003,6.7
+Colorado,Arapahoe County,05000US08005,6.3
+Colorado,Archuleta County,05000US08007,5.9
+Colorado,Baca County,05000US08009,7.6
+Colorado,Bent County,05000US08011,7
+Colorado,Boulder County,05000US08013,4.1
+Colorado,Broomfield County,05000US08014,5.5
+Colorado,Chaffee County,05000US08015,6.4
+Colorado,Cheyenne County,05000US08017,6.5
+Colorado,Clear Creek County,05000US08019,7.9
+Colorado,Conejos County,05000US08021,6
+Colorado,Costilla County,05000US08023,8.3
+Colorado,Crowley County,05000US08025,6
+Colorado,Custer County,05000US08027,6.8
+Colorado,Delta County,05000US08029,7.6
+Colorado,Denver County,05000US08031,6
+Colorado,Dolores County,05000US08033,7.5
+Colorado,Douglas County,05000US08035,5.3
+Colorado,Eagle County,05000US08037,3.3
+Colorado,Elbert County,05000US08039,5.2
+Colorado,El Paso County,05000US08041,7
+Colorado,Fremont County,05000US08043,8.1
+Colorado,Garfield County,05000US08045,4.7
+Colorado,Gilpin County,05000US08047,6.3
+Colorado,Grand County,05000US08049,5.6
+Colorado,Gunnison County,05000US08051,4.6
+Colorado,Hinsdale County,05000US08053,6.6
+Colorado,Huerfano County,05000US08055,7.6
+Colorado,Jackson County,05000US08057,6.6
+Colorado,Jefferson County,05000US08059,5.4
+Colorado,Kiowa County,05000US08061,7.7
+Colorado,Kit Carson County,05000US08063,7.3
+Colorado,Lake County,05000US08065,5.4
+Colorado,La Plata County,05000US08067,4.8
+Colorado,Larimer County,05000US08069,5.2
+Colorado,Las Animas County,05000US08071,7.7
+Colorado,Lincoln County,05000US08073,7.6
+Colorado,Logan County,05000US08075,7
+Colorado,Mesa County,05000US08077,7.2
+Colorado,Mineral County,05000US08079,6.8
+Colorado,Moffat County,05000US08081,6.3
+Colorado,Montezuma County,05000US08083,6.5
+Colorado,Montrose County,05000US08085,8.1
+Colorado,Morgan County,05000US08087,7.4
+Colorado,Otero County,05000US08089,6.8
+Colorado,Ouray County,05000US08091,6.7
+Colorado,Park County,05000US08093,6.7
+Colorado,Phillips County,05000US08095,7.8
+Colorado,Pitkin County,05000US08097,5.1
+Colorado,Prowers County,05000US08099,8.4
+Colorado,Pueblo County,05000US08101,9.1
+Colorado,Rio Blanco County,05000US08103,6
+Colorado,Rio Grande County,05000US08105,6.9
+Colorado,Routt County,05000US08107,4.1
+Colorado,Saguache County,05000US08109,7
+Colorado,San Juan County,05000US08111,6.7
+Colorado,San Miguel County,05000US08113,5
+Colorado,Sedgwick County,05000US08115,8
+Colorado,Summit County,05000US08117,4.1
+Colorado,Teller County,05000US08119,6.9
+Colorado,Washington County,05000US08121,6.5
+Colorado,Weld County,05000US08123,6.4
+Colorado,Yuma County,05000US08125,6.1
+Connecticut,Fairfield County,05000US09001,7.6
+Connecticut,Hartford County,05000US09003,9.6
+Connecticut,Litchfield County,05000US09005,6.7
+Connecticut,Middlesex County,05000US09007,8.4
+Connecticut,New Haven County,05000US09009,9
+Connecticut,New London County,05000US09011,9.2
+Connecticut,Tolland County,05000US09013,7.2
+Connecticut,Windham County,05000US09015,10.1
+Delaware,Kent County,05000US10001,12.8
+Delaware,New Castle County,05000US10003,9
+Delaware,Sussex County,05000US10005,13.2
+District of Columbia,District of Columbia,05000US11001,8.1
+Florida,Alachua County,05000US12001,8.3
+Florida,Baker County,05000US12003,13
+Florida,Bay County,05000US12005,11.2
+Florida,Bradford County,05000US12007,14.4
+Florida,Brevard County,05000US12009,11.7
+Florida,Broward County,05000US12011,9.5
+Florida,Calhoun County,05000US12013,15.5
+Florida,Charlotte County,05000US12015,14.1
+Florida,Citrus County,05000US12017,14.6
+Florida,Clay County,05000US12019,12
+Florida,Collier County,05000US12021,8.6
+Florida,Columbia County,05000US12023,12.7
+Florida,DeSoto County,05000US12027,13.7
+Florida,Dixie County,05000US12029,14
+Florida,Duval County,05000US12031,11.2
+Florida,Escambia County,05000US12033,12.4
+Florida,Flagler County,05000US12035,12.4
+Florida,Franklin County,05000US12037,11
+Florida,Gadsden County,05000US12039,17.1
+Florida,Gilchrist County,05000US12041,8.4
+Florida,Glades County,05000US12043,13.8
+Florida,Gulf County,05000US12045,11.1
+Florida,Hamilton County,05000US12047,13
+Florida,Hardee County,05000US12049,12.6
+Florida,Hendry County,05000US12051,13.7
+Florida,Hernando County,05000US12053,13.4
+Florida,Highlands County,05000US12055,14.2
+Florida,Hillsborough County,05000US12057,10.4
+Florida,Holmes County,05000US12059,14.2
+Florida,Indian River County,05000US12061,11.4
+Florida,Jackson County,05000US12063,12.4
+Florida,Jefferson County,05000US12065,11.7
+Florida,Lafayette County,05000US12067,13.2
+Florida,Lake County,05000US12069,14.7
+Florida,Lee County,05000US12071,9.9
+Florida,Leon County,05000US12073,8.3
+Florida,Levy County,05000US12075,14.1
+Florida,Liberty County,05000US12077,13.4
+Florida,Madison County,05000US12079,15.6
+Florida,Manatee County,05000US12081,10.6
+Florida,Marion County,05000US12083,12.6
+Florida,Martin County,05000US12085,11.3
+Florida,Miami-Dade County,05000US12086,7.9
+Florida,Monroe County,05000US12087,8.6
+Florida,Nassau County,05000US12089,10.8
+Florida,Okaloosa County,05000US12091,9.7
+Florida,Okeechobee County,05000US12093,11.6
+Florida,Orange County,05000US12095,8.8
+Florida,Osceola County,05000US12097,12
+Florida,Palm Beach County,05000US12099,10.5
+Florida,Pasco County,05000US12101,12.2
+Florida,Pinellas County,05000US12103,10.8
+Florida,Polk County,05000US12105,14.3
+Florida,Putnam County,05000US12107,12.2
+Florida,St. Johns County,05000US12109,9
+Florida,St. Lucie County,05000US12111,11.5
+Florida,Santa Rosa County,05000US12113,9
+Florida,Sarasota County,05000US12115,11.1
+Florida,Seminole County,05000US12117,10
+Florida,Sumter County,05000US12119,14.9
+Florida,Suwannee County,05000US12121,13.5
+Florida,Taylor County,05000US12123,15.4
+Florida,Union County,05000US12125,12.5
+Florida,Volusia County,05000US12127,12.4
+Florida,Wakulla County,05000US12129,11.7
+Florida,Walton County,05000US12131,11.6
+Florida,Washington County,05000US12133,12.9
+Georgia,Appling County,05000US13001,12.9
+Georgia,Atkinson County,05000US13003,11.5
+Georgia,Bacon County,05000US13005,10.4
+Georgia,Baker County,05000US13007,14.8
+Georgia,Baldwin County,05000US13009,14
+Georgia,Banks County,05000US13011,11.1
+Georgia,Barrow County,05000US13013,11.3
+Georgia,Bartow County,05000US13015,12.1
+Georgia,Ben Hill County,05000US13017,12.4
+Georgia,Berrien County,05000US13019,14.2
+Georgia,Bibb County,05000US13021,12.7
+Georgia,Bleckley County,05000US13023,13.6
+Georgia,Brantley County,05000US13025,10.9
+Georgia,Brooks County,05000US13027,14.5
+Georgia,Bryan County,05000US13029,12.3
+Georgia,Bulloch County,05000US13031,12
+Georgia,Burke County,05000US13033,14.7
+Georgia,Butts County,05000US13035,11.7
+Georgia,Calhoun County,05000US13037,14.4
+Georgia,Camden County,05000US13039,10.9
+Georgia,Candler County,05000US13043,13.7
+Georgia,Carroll County,05000US13045,11.3
+Georgia,Catoosa County,05000US13047,12.2
+Georgia,Charlton County,05000US13049,11.6
+Georgia,Chatham County,05000US13051,11
+Georgia,Chattahoochee County,05000US13053,6.4
+Georgia,Chattooga County,05000US13055,11
+Georgia,Cherokee County,05000US13057,8.7
+Georgia,Clarke County,05000US13059,8.3
+Georgia,Clay County,05000US13061,17.2
+Georgia,Clayton County,05000US13063,11.6
+Georgia,Clinch County,05000US13065,12.9
+Georgia,Cobb County,05000US13067,8.5
+Georgia,Coffee County,05000US13069,11.5
+Georgia,Colquitt County,05000US13071,12.8
+Georgia,Columbia County,05000US13073,10.4
+Georgia,Cook County,05000US13075,12.2
+Georgia,Coweta County,05000US13077,10.6
+Georgia,Crawford County,05000US13079,13.1
+Georgia,Crisp County,05000US13081,14.2
+Georgia,Dade County,05000US13083,12.2
+Georgia,Dawson County,05000US13085,10.5
+Georgia,Decatur County,05000US13087,12.1
+Georgia,DeKalb County,05000US13089,10
+Georgia,Dodge County,05000US13091,13.5
+Georgia,Dooly County,05000US13093,14.8
+Georgia,Dougherty County,05000US13095,12.4
+Georgia,Douglas County,05000US13097,12
+Georgia,Early County,05000US13099,15.6
+Georgia,Echols County,05000US13101,10.9
+Georgia,Effingham County,05000US13103,13.5
+Georgia,Elbert County,05000US13105,13
+Georgia,Emanuel County,05000US13107,11.6
+Georgia,Evans County,05000US13109,13.4
+Georgia,Fannin County,05000US13111,12.2
+Georgia,Fayette County,05000US13113,12.9
+Georgia,Floyd County,05000US13115,13.6
+Georgia,Forsyth County,05000US13117,10.8
+Georgia,Franklin County,05000US13119,12.4
+Georgia,Fulton County,05000US13121,8.7
+Georgia,Gilmer County,05000US13123,12.4
+Georgia,Glascock County,05000US13125,11.8
+Georgia,Glynn County,05000US13127,11.5
+Georgia,Gordon County,05000US13129,10.2
+Georgia,Grady County,05000US13131,12.1
+Georgia,Greene County,05000US13133,15.4
+Georgia,Gwinnett County,05000US13135,8.3
+Georgia,Habersham County,05000US13137,11.4
+Georgia,Hall County,05000US13139,10.9
+Georgia,Hancock County,05000US13141,15.8
+Georgia,Haralson County,05000US13143,11.2
+Georgia,Harris County,05000US13145,13.2
+Georgia,Hart County,05000US13147,13.5
+Georgia,Heard County,05000US13149,12
+Georgia,Henry County,05000US13151,13.5
+Georgia,Houston County,05000US13153,13.2
+Georgia,Irwin County,05000US13155,12.4
+Georgia,Jackson County,05000US13157,11.2
+Georgia,Jasper County,05000US13159,12.6
+Georgia,Jeff Davis County,05000US13161,12.8
+Georgia,Jefferson County,05000US13163,16.7
+Georgia,Jenkins County,05000US13165,12.1
+Georgia,Johnson County,05000US13167,12.7
+Georgia,Jones County,05000US13169,12.4
+Georgia,Lamar County,05000US13171,11.7
+Georgia,Lanier County,05000US13173,11.4
+Georgia,Laurens County,05000US13175,14.4
+Georgia,Lee County,05000US13177,10.7
+Georgia,Liberty County,05000US13179,10.4
+Georgia,Lincoln County,05000US13181,14.1
+Georgia,Long County,05000US13183,9.8
+Georgia,Lowndes County,05000US13185,11.6
+Georgia,Lumpkin County,05000US13187,10.8
+Georgia,McDuffie County,05000US13189,17.4
+Georgia,McIntosh County,05000US13191,15.2
+Georgia,Macon County,05000US13193,13.5
+Georgia,Madison County,05000US13195,13.3
+Georgia,Marion County,05000US13197,14
+Georgia,Meriwether County,05000US13199,14.8
+Georgia,Miller County,05000US13201,13.3
+Georgia,Mitchell County,05000US13205,14.4
+Georgia,Monroe County,05000US13207,14.5
+Georgia,Montgomery County,05000US13209,13.4
+Georgia,Morgan County,05000US13211,11.6
+Georgia,Murray County,05000US13213,12.7
+Georgia,Muscogee County,05000US13215,13.4
+Georgia,Newton County,05000US13217,10.4
+Georgia,Oconee County,05000US13219,9.3
+Georgia,Oglethorpe County,05000US13221,13
+Georgia,Paulding County,05000US13223,11
+Georgia,Peach County,05000US13225,13.6
+Georgia,Pickens County,05000US13227,14.2
+Georgia,Pierce County,05000US13229,11.3
+Georgia,Pike County,05000US13231,11.7
+Georgia,Polk County,05000US13233,10.4
+Georgia,Pulaski County,05000US13235,13.6
+Georgia,Putnam County,05000US13237,12.8
+Georgia,Quitman County,05000US13239,16.9
+Georgia,Rabun County,05000US13241,13
+Georgia,Randolph County,05000US13243,16.7
+Georgia,Richmond County,05000US13245,13.5
+Georgia,Rockdale County,05000US13247,13.1
+Georgia,Schley County,05000US13249,12.6
+Georgia,Screven County,05000US13251,13.6
+Georgia,Seminole County,05000US13253,14.2
+Georgia,Spalding County,05000US13255,12.9
+Georgia,Stephens County,05000US13257,12.6
+Georgia,Stewart County,05000US13259,13.7
+Georgia,Sumter County,05000US13261,13.8
+Georgia,Talbot County,05000US13263,16.3
+Georgia,Taliaferro County,05000US13265,16.2
+Georgia,Tattnall County,05000US13267,10.2
+Georgia,Taylor County,05000US13269,14.5
+Georgia,Telfair County,05000US13271,12.3
+Georgia,Terrell County,05000US13273,14.9
+Georgia,Thomas County,05000US13275,14
+Georgia,Tift County,05000US13277,13.2
+Georgia,Toombs County,05000US13279,13.6
+Georgia,Towns County,05000US13281,12.9
+Georgia,Treutlen County,05000US13283,12.3
+Georgia,Troup County,05000US13285,12.6
+Georgia,Turner County,05000US13287,14.3
+Georgia,Twiggs County,05000US13289,14.5
+Georgia,Union County,05000US13291,15.9
+Georgia,Upson County,05000US13293,11.9
+Georgia,Walker County,05000US13295,12.4
+Georgia,Walton County,05000US13297,11.6
+Georgia,Ware County,05000US13299,12.3
+Georgia,Warren County,05000US13301,15.8
+Georgia,Washington County,05000US13303,13
+Georgia,Wayne County,05000US13305,13.1
+Georgia,Webster County,05000US13307,14.6
+Georgia,Wheeler County,05000US13309,12.1
+Georgia,White County,05000US13311,12.6
+Georgia,Whitfield County,05000US13313,13.2
+Georgia,Wilcox County,05000US13315,11.4
+Georgia,Wilkes County,05000US13317,15.5
+Georgia,Wilkinson County,05000US13319,14.8
+Georgia,Worth County,05000US13321,13.9
+Hawaii,Hawaii County,05000US15001,8.1
+Hawaii,Honolulu County,05000US15003,8.4
+Hawaii,Kalawao County,05000US15005,11.3
+Hawaii,Kauai County,05000US15007,8.3
+Hawaii,Maui County,05000US15009,7.7
+Idaho,Ada County,05000US16001,7.5
+Idaho,Adams County,05000US16003,11.6
+Idaho,Bannock County,05000US16005,10
+Idaho,Bear Lake County,05000US16007,8.9
+Idaho,Benewah County,05000US16009,9.4
+Idaho,Bingham County,05000US16011,9.9
+Idaho,Blaine County,05000US16013,6.6
+Idaho,Boise County,05000US16015,9.6
+Idaho,Bonner County,05000US16017,7.6
+Idaho,Bonneville County,05000US16019,8.5
+Idaho,Boundary County,05000US16021,11
+Idaho,Butte County,05000US16023,9.5
+Idaho,Camas County,05000US16025,9.4
+Idaho,Canyon County,05000US16027,9.5
+Idaho,Caribou County,05000US16029,10.5
+Idaho,Cassia County,05000US16031,9
+Idaho,Clark County,05000US16033,8.5
+Idaho,Clearwater County,05000US16035,11.1
+Idaho,Custer County,05000US16037,9.4
+Idaho,Elmore County,05000US16039,8.6
+Idaho,Franklin County,05000US16041,7.9
+Idaho,Fremont County,05000US16043,9
+Idaho,Gem County,05000US16045,9.9
+Idaho,Gooding County,05000US16047,9.8
+Idaho,Idaho County,05000US16049,9.5
+Idaho,Jefferson County,05000US16051,8.8
+Idaho,Jerome County,05000US16053,7.7
+Idaho,Kootenai County,05000US16055,9.6
+Idaho,Latah County,05000US16057,6.4
+Idaho,Lemhi County,05000US16059,12.1
+Idaho,Lewis County,05000US16061,10.5
+Idaho,Lincoln County,05000US16063,8.3
+Idaho,Madison County,05000US16065,5.5
+Idaho,Minidoka County,05000US16067,10.8
+Idaho,Nez Perce County,05000US16069,11
+Idaho,Oneida County,05000US16071,12.2
+Idaho,Owyhee County,05000US16073,9.5
+Idaho,Payette County,05000US16075,9.2
+Idaho,Power County,05000US16077,8.2
+Idaho,Shoshone County,05000US16079,10.2
+Idaho,Teton County,05000US16081,6
+Idaho,Twin Falls County,05000US16083,8.7
+Idaho,Valley County,05000US16085,8.4
+Idaho,Washington County,05000US16087,11.2
+Illinois,Adams County,05000US17001,10.1
+Illinois,Alexander County,05000US17003,11.4
+Illinois,Bond County,05000US17005,10
+Illinois,Boone County,05000US17007,9.4
+Illinois,Brown County,05000US17009,8.2
+Illinois,Bureau County,05000US17011,11.3
+Illinois,Calhoun County,05000US17013,11.4
+Illinois,Carroll County,05000US17015,12.2
+Illinois,Cass County,05000US17017,10.6
+Illinois,Champaign County,05000US17019,7.4
+Illinois,Christian County,05000US17021,10.5
+Illinois,Clark County,05000US17023,11.5
+Illinois,Clay County,05000US17025,10.8
+Illinois,Clinton County,05000US17027,8.7
+Illinois,Coles County,05000US17029,8.9
+Illinois,Cook County,05000US17031,8.5
+Illinois,Crawford County,05000US17033,10.6
+Illinois,Cumberland County,05000US17035,11.1
+Illinois,DeKalb County,05000US17037,8.3
+Illinois,De Witt County,05000US17039,10.8
+Illinois,Douglas County,05000US17041,10.8
+Illinois,DuPage County,05000US17043,8.1
+Illinois,Edgar County,05000US17045,10.1
+Illinois,Edwards County,05000US17047,10.5
+Illinois,Effingham County,05000US17049,10.7
+Illinois,Fayette County,05000US17051,10.3
+Illinois,Ford County,05000US17053,10.6
+Illinois,Franklin County,05000US17055,11.6
+Illinois,Fulton County,05000US17057,11.6
+Illinois,Gallatin County,05000US17059,10.8
+Illinois,Greene County,05000US17061,11.5
+Illinois,Grundy County,05000US17063,8.6
+Illinois,Hamilton County,05000US17065,11.1
+Illinois,Hancock County,05000US17067,11.2
+Illinois,Hardin County,05000US17069,13
+Illinois,Henderson County,05000US17071,11.8
+Illinois,Henry County,05000US17073,11.1
+Illinois,Iroquois County,05000US17075,12.4
+Illinois,Jackson County,05000US17077,9
+Illinois,Jasper County,05000US17079,10.2
+Illinois,Jefferson County,05000US17081,11.1
+Illinois,Jersey County,05000US17083,10.4
+Illinois,Jo Daviess County,05000US17085,13
+Illinois,Johnson County,05000US17087,10.5
+Illinois,Kane County,05000US17089,7.7
+Illinois,Kankakee County,05000US17091,9.1
+Illinois,Kendall County,05000US17093,8.3
+Illinois,Knox County,05000US17095,9.8
+Illinois,Lake County,05000US17097,8.4
+Illinois,LaSalle County,05000US17099,10.4
+Illinois,Lawrence County,05000US17101,11.7
+Illinois,Lee County,05000US17103,10.1
+Illinois,Livingston County,05000US17105,9.5
+Illinois,Logan County,05000US17107,9.8
+Illinois,McDonough County,05000US17109,9.3
+Illinois,McHenry County,05000US17111,10.1
+Illinois,McLean County,05000US17113,7
+Illinois,Macon County,05000US17115,10
+Illinois,Macoupin County,05000US17117,10.5
+Illinois,Madison County,05000US17119,10
+Illinois,Marion County,05000US17121,10.5
+Illinois,Marshall County,05000US17123,11.2
+Illinois,Mason County,05000US17125,11.1
+Illinois,Massac County,05000US17127,11.2
+Illinois,Menard County,05000US17129,10.2
+Illinois,Mercer County,05000US17131,11.4
+Illinois,Monroe County,05000US17133,11.4
+Illinois,Montgomery County,05000US17135,10.8
+Illinois,Morgan County,05000US17137,11.3
+Illinois,Moultrie County,05000US17139,10.2
+Illinois,Ogle County,05000US17141,10.4
+Illinois,Peoria County,05000US17143,9.6
+Illinois,Perry County,05000US17145,10.6
+Illinois,Piatt County,05000US17147,10.7
+Illinois,Pike County,05000US17149,12
+Illinois,Pope County,05000US17151,10.9
+Illinois,Pulaski County,05000US17153,12.1
+Illinois,Putnam County,05000US17155,10.5
+Illinois,Randolph County,05000US17157,10.1
+Illinois,Richland County,05000US17159,11
+Illinois,Rock Island County,05000US17161,10.8
+Illinois,St. Clair County,05000US17163,12.7
+Illinois,Saline County,05000US17165,12
+Illinois,Sangamon County,05000US17167,10.7
+Illinois,Schuyler County,05000US17169,10.6
+Illinois,Scott County,05000US17171,9.9
+Illinois,Shelby County,05000US17173,10.1
+Illinois,Stark County,05000US17175,12.2
+Illinois,Stephenson County,05000US17177,12.5
+Illinois,Tazewell County,05000US17179,9.6
+Illinois,Union County,05000US17181,11.9
+Illinois,Vermilion County,05000US17183,12.7
+Illinois,Wabash County,05000US17185,12.6
+Illinois,Warren County,05000US17187,10.5
+Illinois,Washington County,05000US17189,10.5
+Illinois,Wayne County,05000US17191,10.3
+Illinois,White County,05000US17193,10.6
+Illinois,Whiteside County,05000US17195,10.5
+Illinois,Will County,05000US17197,8.5
+Illinois,Williamson County,05000US17199,10.5
+Illinois,Winnebago County,05000US17201,11.7
+Illinois,Woodford County,05000US17203,9.6
+Indiana,Adams County,05000US18001,13.9
+Indiana,Allen County,05000US18003,10.3
+Indiana,Bartholomew County,05000US18005,10.5
+Indiana,Benton County,05000US18007,12.1
+Indiana,Blackford County,05000US18009,13.7
+Indiana,Boone County,05000US18011,10.4
+Indiana,Brown County,05000US18013,12.6
+Indiana,Carroll County,05000US18015,13.4
+Indiana,Cass County,05000US18017,9.8
+Indiana,Clark County,05000US18019,12.4
+Indiana,Clay County,05000US18021,11.9
+Indiana,Clinton County,05000US18023,12.5
+Indiana,Crawford County,05000US18025,13
+Indiana,Daviess County,05000US18027,12.9
+Indiana,Dearborn County,05000US18029,13.1
+Indiana,Decatur County,05000US18031,14.7
+Indiana,DeKalb County,05000US18033,10
+Indiana,Delaware County,05000US18035,12.5
+Indiana,Dubois County,05000US18037,10.3
+Indiana,Elkhart County,05000US18039,10.2
+Indiana,Fayette County,05000US18041,12.2
+Indiana,Floyd County,05000US18043,10.2
+Indiana,Fountain County,05000US18045,13.9
+Indiana,Franklin County,05000US18047,11
+Indiana,Fulton County,05000US18049,11.4
+Indiana,Gibson County,05000US18051,13.4
+Indiana,Grant County,05000US18053,14.8
+Indiana,Greene County,05000US18055,13.3
+Indiana,Hamilton County,05000US18057,8.6
+Indiana,Hancock County,05000US18059,12.4
+Indiana,Harrison County,05000US18061,12.8
+Indiana,Hendricks County,05000US18063,10
+Indiana,Henry County,05000US18065,13.4
+Indiana,Howard County,05000US18067,13.1
+Indiana,Huntington County,05000US18069,12.7
+Indiana,Jackson County,05000US18071,12.4
+Indiana,Jasper County,05000US18073,11.3
+Indiana,Jay County,05000US18075,15
+Indiana,Jefferson County,05000US18077,12.5
+Indiana,Jennings County,05000US18079,12.3
+Indiana,Johnson County,05000US18081,10.7
+Indiana,Knox County,05000US18083,11
+Indiana,Kosciusko County,05000US18085,10.4
+Indiana,LaGrange County,05000US18087,11.2
+Indiana,Lake County,05000US18089,12.2
+Indiana,LaPorte County,05000US18091,10.8
+Indiana,Lawrence County,05000US18093,15.1
+Indiana,Madison County,05000US18095,12.2
+Indiana,Marion County,05000US18097,10.5
+Indiana,Marshall County,05000US18099,11.1
+Indiana,Martin County,05000US18101,15.6
+Indiana,Miami County,05000US18103,11.6
+Indiana,Monroe County,05000US18105,7.7
+Indiana,Montgomery County,05000US18107,11.8
+Indiana,Morgan County,05000US18109,14
+Indiana,Newton County,05000US18111,11.6
+Indiana,Noble County,05000US18113,11.8
+Indiana,Ohio County,05000US18115,12.4
+Indiana,Orange County,05000US18117,11.6
+Indiana,Owen County,05000US18119,14.1
+Indiana,Parke County,05000US18121,12.5
+Indiana,Perry County,05000US18123,12.6
+Indiana,Pike County,05000US18125,12.6
+Indiana,Porter County,05000US18127,9.4
+Indiana,Posey County,05000US18129,12.7
+Indiana,Pulaski County,05000US18131,12.2
+Indiana,Putnam County,05000US18133,10
+Indiana,Randolph County,05000US18135,14.2
+Indiana,Ripley County,05000US18137,13.7
+Indiana,Rush County,05000US18139,14
+Indiana,St. Joseph County,05000US18141,9.9
+Indiana,Scott County,05000US18143,12.7
+Indiana,Shelby County,05000US18145,11.4
+Indiana,Spencer County,05000US18147,10.8
+Indiana,Starke County,05000US18149,13.6
+Indiana,Steuben County,05000US18151,10.4
+Indiana,Sullivan County,05000US18153,13
+Indiana,Switzerland County,05000US18155,13.4
+Indiana,Tippecanoe County,05000US18157,6.9
+Indiana,Tipton County,05000US18159,10.8
+Indiana,Union County,05000US18161,12.8
+Indiana,Vanderburgh County,05000US18163,11.9
+Indiana,Vermillion County,05000US18165,14.3
+Indiana,Vigo County,05000US18167,11.5
+Indiana,Wabash County,05000US18169,13.9
+Indiana,Warren County,05000US18171,12.2
+Indiana,Warrick County,05000US18173,10.9
+Indiana,Washington County,05000US18175,10.9
+Indiana,Wayne County,05000US18177,11.5
+Indiana,Wells County,05000US18179,11.8
+Indiana,White County,05000US18181,14.5
+Indiana,Whitley County,05000US18183,10.6
+Iowa,Adair County,05000US19001,11.6
+Iowa,Adams County,05000US19003,10.1
+Iowa,Allamakee County,05000US19005,9.1
+Iowa,Appanoose County,05000US19007,11.6
+Iowa,Audubon County,05000US19009,11.7
+Iowa,Benton County,05000US19011,10
+Iowa,Black Hawk County,05000US19013,9.5
+Iowa,Boone County,05000US19015,9.1
+Iowa,Bremer County,05000US19017,9.4
+Iowa,Buchanan County,05000US19019,9.5
+Iowa,Buena Vista County,05000US19021,10.1
+Iowa,Butler County,05000US19023,10
+Iowa,Calhoun County,05000US19025,10.7
+Iowa,Carroll County,05000US19027,8.9
+Iowa,Cass County,05000US19029,10.7
+Iowa,Cedar County,05000US19031,10.6
+Iowa,Cerro Gordo County,05000US19033,10.4
+Iowa,Cherokee County,05000US19035,11.3
+Iowa,Chickasaw County,05000US19037,10.4
+Iowa,Clarke County,05000US19039,10.2
+Iowa,Clay County,05000US19041,9.3
+Iowa,Clayton County,05000US19043,9.2
+Iowa,Clinton County,05000US19045,12.1
+Iowa,Crawford County,05000US19047,11.7
+Iowa,Dallas County,05000US19049,8.4
+Iowa,Davis County,05000US19051,10.6
+Iowa,Decatur County,05000US19053,9.7
+Iowa,Delaware County,05000US19055,10.6
+Iowa,Des Moines County,05000US19057,11.1
+Iowa,Dickinson County,05000US19059,9.6
+Iowa,Dubuque County,05000US19061,9.6
+Iowa,Emmet County,05000US19063,10.7
+Iowa,Fayette County,05000US19065,10.4
+Iowa,Floyd County,05000US19067,12.1
+Iowa,Franklin County,05000US19069,10.2
+Iowa,Fremont County,05000US19071,9.5
+Iowa,Greene County,05000US19073,10.4
+Iowa,Grundy County,05000US19075,11
+Iowa,Guthrie County,05000US19077,9.4
+Iowa,Hamilton County,05000US19079,10.3
+Iowa,Hancock County,05000US19081,9.9
+Iowa,Hardin County,05000US19083,10.5
+Iowa,Harrison County,05000US19085,11.7
+Iowa,Henry County,05000US19087,11.5
+Iowa,Howard County,05000US19089,10.3
+Iowa,Humboldt County,05000US19091,9.7
+Iowa,Ida County,05000US19093,10.1
+Iowa,Iowa County,05000US19095,8.7
+Iowa,Jackson County,05000US19097,11.7
+Iowa,Jasper County,05000US19099,9.7
+Iowa,Jefferson County,05000US19101,10.6
+Iowa,Johnson County,05000US19103,5.4
+Iowa,Jones County,05000US19105,10.2
+Iowa,Keokuk County,05000US19107,11
+Iowa,Kossuth County,05000US19109,11
+Iowa,Lee County,05000US19111,11.1
+Iowa,Linn County,05000US19113,10.3
+Iowa,Louisa County,05000US19115,9.8
+Iowa,Lucas County,05000US19117,11.6
+Iowa,Lyon County,05000US19119,9.3
+Iowa,Madison County,05000US19121,10
+Iowa,Mahaska County,05000US19123,10.1
+Iowa,Marion County,05000US19125,9.8
+Iowa,Marshall County,05000US19127,10.7
+Iowa,Mills County,05000US19129,10.9
+Iowa,Mitchell County,05000US19131,9.7
+Iowa,Monona County,05000US19133,11.8
+Iowa,Monroe County,05000US19135,10.7
+Iowa,Montgomery County,05000US19137,10.5
+Iowa,Muscatine County,05000US19139,9.2
+Iowa,O'Brien County,05000US19141,9.6
+Iowa,Osceola County,05000US19143,11.5
+Iowa,Page County,05000US19145,12
+Iowa,Palo Alto County,05000US19147,10.6
+Iowa,Plymouth County,05000US19149,9.8
+Iowa,Pocahontas County,05000US19151,11.9
+Iowa,Polk County,05000US19153,8.6
+Iowa,Pottawattamie County,05000US19155,11.5
+Iowa,Poweshiek County,05000US19157,10.5
+Iowa,Ringgold County,05000US19159,11.4
+Iowa,Sac County,05000US19161,10.4
+Iowa,Scott County,05000US19163,8.7
+Iowa,Shelby County,05000US19165,11
+Iowa,Sioux County,05000US19167,8.9
+Iowa,Story County,05000US19169,6.7
+Iowa,Tama County,05000US19171,9.9
+Iowa,Taylor County,05000US19173,10.2
+Iowa,Union County,05000US19175,11.8
+Iowa,Van Buren County,05000US19177,9.9
+Iowa,Wapello County,05000US19179,12.8
+Iowa,Warren County,05000US19181,10.4
+Iowa,Washington County,05000US19183,9.4
+Iowa,Wayne County,05000US19185,11.6
+Iowa,Webster County,05000US19187,10
+Iowa,Winnebago County,05000US19189,9.7
+Iowa,Winneshiek County,05000US19191,7.9
+Iowa,Woodbury County,05000US19193,10.1
+Iowa,Worth County,05000US19195,11.9
+Iowa,Wright County,05000US19197,10.7
+Kansas,Allen County,05000US20001,10.9
+Kansas,Anderson County,05000US20003,9.8
+Kansas,Atchison County,05000US20005,8.7
+Kansas,Barber County,05000US20007,9.1
+Kansas,Barton County,05000US20009,9.5
+Kansas,Bourbon County,05000US20011,13
+Kansas,Brown County,05000US20013,11.7
+Kansas,Butler County,05000US20015,9.9
+Kansas,Chase County,05000US20017,11.9
+Kansas,Chautauqua County,05000US20019,12.6
+Kansas,Cherokee County,05000US20021,12.2
+Kansas,Cheyenne County,05000US20023,13.7
+Kansas,Clark County,05000US20025,11.8
+Kansas,Clay County,05000US20027,14.1
+Kansas,Cloud County,05000US20029,12.6
+Kansas,Coffey County,05000US20031,9.9
+Kansas,Comanche County,05000US20033,11.1
+Kansas,Cowley County,05000US20035,11.2
+Kansas,Crawford County,05000US20037,11.5
+Kansas,Decatur County,05000US20039,12.5
+Kansas,Dickinson County,05000US20041,11
+Kansas,Doniphan County,05000US20043,9.7
+Kansas,Douglas County,05000US20045,6.5
+Kansas,Edwards County,05000US20047,10.6
+Kansas,Elk County,05000US20049,12.4
+Kansas,Ellis County,05000US20051,8.9
+Kansas,Ellsworth County,05000US20053,11.7
+Kansas,Finney County,05000US20055,9.5
+Kansas,Ford County,05000US20057,8.7
+Kansas,Franklin County,05000US20059,8.9
+Kansas,Geary County,05000US20061,7.9
+Kansas,Gove County,05000US20063,11.9
+Kansas,Graham County,05000US20065,11.1
+Kansas,Grant County,05000US20067,7.8
+Kansas,Gray County,05000US20069,9.3
+Kansas,Greeley County,05000US20071,10.7
+Kansas,Greenwood County,05000US20073,12.8
+Kansas,Hamilton County,05000US20075,8.9
+Kansas,Harper County,05000US20077,11
+Kansas,Harvey County,05000US20079,10.3
+Kansas,Haskell County,05000US20081,9.8
+Kansas,Hodgeman County,05000US20083,13.7
+Kansas,Jackson County,05000US20085,10.4
+Kansas,Jefferson County,05000US20087,10
+Kansas,Jewell County,05000US20089,13
+Kansas,Johnson County,05000US20091,7.5
+Kansas,Kearny County,05000US20093,9.8
+Kansas,Kingman County,05000US20095,13.5
+Kansas,Kiowa County,05000US20097,10.3
+Kansas,Labette County,05000US20099,11.3
+Kansas,Lane County,05000US20101,11.8
+Kansas,Leavenworth County,05000US20103,10.3
+Kansas,Lincoln County,05000US20105,10.4
+Kansas,Linn County,05000US20107,12
+Kansas,Logan County,05000US20109,13.5
+Kansas,Lyon County,05000US20111,10.4
+Kansas,McPherson County,05000US20113,9.5
+Kansas,Marion County,05000US20115,9.4
+Kansas,Marshall County,05000US20117,9.5
+Kansas,Meade County,05000US20119,9.5
+Kansas,Miami County,05000US20121,11
+Kansas,Mitchell County,05000US20123,12.4
+Kansas,Montgomery County,05000US20125,14.3
+Kansas,Morris County,05000US20127,12.3
+Kansas,Morton County,05000US20129,11.1
+Kansas,Nemaha County,05000US20131,8.9
+Kansas,Neosho County,05000US20133,12.2
+Kansas,Ness County,05000US20135,10.8
+Kansas,Norton County,05000US20137,10.7
+Kansas,Osage County,05000US20139,11.5
+Kansas,Osborne County,05000US20141,12.1
+Kansas,Ottawa County,05000US20143,12.1
+Kansas,Pawnee County,05000US20145,12.8
+Kansas,Phillips County,05000US20147,11.2
+Kansas,Pottawatomie County,05000US20149,10.5
+Kansas,Pratt County,05000US20151,11.7
+Kansas,Rawlins County,05000US20153,12.3
+Kansas,Reno County,05000US20155,11.9
+Kansas,Republic County,05000US20157,10.8
+Kansas,Rice County,05000US20159,11.3
+Kansas,Riley County,05000US20161,5.6
+Kansas,Rooks County,05000US20163,10.5
+Kansas,Rush County,05000US20165,11.2
+Kansas,Russell County,05000US20167,11.6
+Kansas,Saline County,05000US20169,11.3
+Kansas,Scott County,05000US20171,9.7
+Kansas,Sedgwick County,05000US20173,10.8
+Kansas,Seward County,05000US20175,8.3
+Kansas,Shawnee County,05000US20177,10.7
+Kansas,Sheridan County,05000US20179,11.8
+Kansas,Sherman County,05000US20181,9.4
+Kansas,Smith County,05000US20183,10.6
+Kansas,Stafford County,05000US20185,11.9
+Kansas,Stanton County,05000US20187,11.1
+Kansas,Stevens County,05000US20189,10
+Kansas,Sumner County,05000US20191,11.1
+Kansas,Thomas County,05000US20193,8.7
+Kansas,Trego County,05000US20195,11.1
+Kansas,Wabaunsee County,05000US20197,9.7
+Kansas,Wallace County,05000US20199,11.7
+Kansas,Washington County,05000US20201,12.7
+Kansas,Wichita County,05000US20203,10.8
+Kansas,Wilson County,05000US20205,13.6
+Kansas,Woodson County,05000US20207,11.7
+Kansas,Wyandotte County,05000US20209,11.9
+Kentucky,Adair County,05000US21001,15.1
+Kentucky,Allen County,05000US21003,13.7
+Kentucky,Anderson County,05000US21005,12.2
+Kentucky,Ballard County,05000US21007,13.2
+Kentucky,Barren County,05000US21009,13.4
+Kentucky,Bath County,05000US21011,14.1
+Kentucky,Bell County,05000US21013,14.6
+Kentucky,Boone County,05000US21015,11.9
+Kentucky,Bourbon County,05000US21017,13.8
+Kentucky,Boyd County,05000US21019,15.7
+Kentucky,Boyle County,05000US21021,11.2
+Kentucky,Bracken County,05000US21023,14.6
+Kentucky,Breathitt County,05000US21025,15.7
+Kentucky,Breckinridge County,05000US21027,14.8
+Kentucky,Bullitt County,05000US21029,13.2
+Kentucky,Butler County,05000US21031,14.1
+Kentucky,Caldwell County,05000US21033,12.6
+Kentucky,Calloway County,05000US21035,10.3
+Kentucky,Campbell County,05000US21037,10.9
+Kentucky,Carlisle County,05000US21039,13.1
+Kentucky,Carroll County,05000US21041,12.5
+Kentucky,Carter County,05000US21043,14.3
+Kentucky,Casey County,05000US21045,14.4
+Kentucky,Christian County,05000US21047,10.8
+Kentucky,Clark County,05000US21049,12.4
+Kentucky,Clay County,05000US21051,14.1
+Kentucky,Clinton County,05000US21053,12.7
+Kentucky,Crittenden County,05000US21055,13.9
+Kentucky,Cumberland County,05000US21057,13.6
+Kentucky,Daviess County,05000US21059,11.3
+Kentucky,Edmonson County,05000US21061,16.1
+Kentucky,Elliott County,05000US21063,13.2
+Kentucky,Estill County,05000US21065,14.6
+Kentucky,Fayette County,05000US21067,9
+Kentucky,Fleming County,05000US21069,13.5
+Kentucky,Floyd County,05000US21071,13.4
+Kentucky,Franklin County,05000US21073,13.4
+Kentucky,Fulton County,05000US21075,14.6
+Kentucky,Gallatin County,05000US21077,12.6
+Kentucky,Garrard County,05000US21079,12.8
+Kentucky,Grant County,05000US21081,12.7
+Kentucky,Graves County,05000US21083,10.7
+Kentucky,Grayson County,05000US21085,14.7
+Kentucky,Green County,05000US21087,13.3
+Kentucky,Greenup County,05000US21089,14.4
+Kentucky,Hancock County,05000US21091,13.9
+Kentucky,Hardin County,05000US21093,11.6
+Kentucky,Harlan County,05000US21095,16.9
+Kentucky,Harrison County,05000US21097,13.1
+Kentucky,Hart County,05000US21099,13.1
+Kentucky,Henderson County,05000US21101,14
+Kentucky,Henry County,05000US21103,11.4
+Kentucky,Hickman County,05000US21105,14.1
+Kentucky,Hopkins County,05000US21107,13.3
+Kentucky,Jackson County,05000US21109,13.7
+Kentucky,Jefferson County,05000US21111,11.9
+Kentucky,Jessamine County,05000US21113,9.3
+Kentucky,Johnson County,05000US21115,15.3
+Kentucky,Kenton County,05000US21117,10.8
+Kentucky,Knott County,05000US21119,16.1
+Kentucky,Knox County,05000US21121,16.2
+Kentucky,Larue County,05000US21123,13.7
+Kentucky,Laurel County,05000US21125,14.2
+Kentucky,Lawrence County,05000US21127,17.7
+Kentucky,Lee County,05000US21129,16
+Kentucky,Leslie County,05000US21131,16
+Kentucky,Letcher County,05000US21133,17.5
+Kentucky,Lewis County,05000US21135,14.6
+Kentucky,Lincoln County,05000US21137,12.3
+Kentucky,Livingston County,05000US21139,12.3
+Kentucky,Logan County,05000US21141,11.8
+Kentucky,Lyon County,05000US21143,14.3
+Kentucky,McCracken County,05000US21145,11.5
+Kentucky,McCreary County,05000US21147,15.6
+Kentucky,McLean County,05000US21149,17.5
+Kentucky,Madison County,05000US21151,10.5
+Kentucky,Magoffin County,05000US21153,13.4
+Kentucky,Marion County,05000US21155,11.1
+Kentucky,Marshall County,05000US21157,11.1
+Kentucky,Martin County,05000US21159,13.9
+Kentucky,Mason County,05000US21161,13
+Kentucky,Meade County,05000US21163,11.6
+Kentucky,Menifee County,05000US21165,12.3
+Kentucky,Mercer County,05000US21167,12.2
+Kentucky,Metcalfe County,05000US21169,15.7
+Kentucky,Monroe County,05000US21171,13.3
+Kentucky,Montgomery County,05000US21173,13.3
+Kentucky,Morgan County,05000US21175,14.7
+Kentucky,Muhlenberg County,05000US21177,12.4
+Kentucky,Nelson County,05000US21179,11.3
+Kentucky,Nicholas County,05000US21181,12.5
+Kentucky,Ohio County,05000US21183,16
+Kentucky,Oldham County,05000US21185,10.3
+Kentucky,Owen County,05000US21187,11.4
+Kentucky,Owsley County,05000US21189,13.1
+Kentucky,Pendleton County,05000US21191,15
+Kentucky,Perry County,05000US21193,14.5
+Kentucky,Pike County,05000US21195,16.1
+Kentucky,Powell County,05000US21197,13.4
+Kentucky,Pulaski County,05000US21199,13.4
+Kentucky,Robertson County,05000US21201,13.7
+Kentucky,Rockcastle County,05000US21203,13.2
+Kentucky,Rowan County,05000US21205,11.1
+Kentucky,Russell County,05000US21207,12.2
+Kentucky,Scott County,05000US21209,10.6
+Kentucky,Shelby County,05000US21211,11.6
+Kentucky,Simpson County,05000US21213,11.6
+Kentucky,Spencer County,05000US21215,12.3
+Kentucky,Taylor County,05000US21217,14
+Kentucky,Todd County,05000US21219,12.2
+Kentucky,Trigg County,05000US21221,13.8
+Kentucky,Trimble County,05000US21223,12.8
+Kentucky,Union County,05000US21225,11.6
+Kentucky,Warren County,05000US21227,9.2
+Kentucky,Washington County,05000US21229,13.2
+Kentucky,Wayne County,05000US21231,14.2
+Kentucky,Webster County,05000US21233,13.9
+Kentucky,Whitley County,05000US21235,13.5
+Kentucky,Wolfe County,05000US21237,12.6
+Kentucky,Woodford County,05000US21239,12.4
+Louisiana,Acadia Parish,05000US22001,12.9
+Louisiana,Allen Parish,05000US22003,11.2
+Louisiana,Ascension Parish,05000US22005,11
+Louisiana,Assumption Parish,05000US22007,14.4
+Louisiana,Avoyelles Parish,05000US22009,14.2
+Louisiana,Beauregard Parish,05000US22011,12.6
+Louisiana,Bienville Parish,05000US22013,14
+Louisiana,Bossier Parish,05000US22015,12
+Louisiana,Caddo Parish,05000US22017,12
+Louisiana,Calcasieu Parish,05000US22019,11.6
+Louisiana,Caldwell Parish,05000US22021,12.1
+Louisiana,Cameron Parish,05000US22023,11.7
+Louisiana,Catahoula Parish,05000US22025,11
+Louisiana,Claiborne Parish,05000US22027,12
+Louisiana,Concordia Parish,05000US22029,14.5
+Louisiana,De Soto Parish,05000US22031,14.1
+Louisiana,East Baton Rouge Parish,05000US22033,11.6
+Louisiana,East Carroll Parish,05000US22035,16.3
+Louisiana,East Feliciana Parish,05000US22037,17.2
+Louisiana,Evangeline Parish,05000US22039,12.3
+Louisiana,Franklin Parish,05000US22041,13.5
+Louisiana,Grant Parish,05000US22043,12
+Louisiana,Iberia Parish,05000US22045,12.9
+Louisiana,Iberville Parish,05000US22047,12.7
+Louisiana,Jackson Parish,05000US22049,13.6
+Louisiana,Jefferson Parish,05000US22051,11.6
+Louisiana,Jefferson Davis Parish,05000US22053,13.2
+Louisiana,Lafayette Parish,05000US22055,10.1
+Louisiana,Lafourche Parish,05000US22057,10.9
+Louisiana,La Salle Parish,05000US22059,12.6
+Louisiana,Lincoln Parish,05000US22061,10.2
+Louisiana,Livingston Parish,05000US22063,12.4
+Louisiana,Madison Parish,05000US22065,11.1
+Louisiana,Morehouse Parish,05000US22067,16
+Louisiana,Natchitoches Parish,05000US22069,13
+Louisiana,Orleans Parish,05000US22071,11.9
+Louisiana,Ouachita Parish,05000US22073,11.8
+Louisiana,Plaquemines Parish,05000US22075,10.6
+Louisiana,Pointe Coupee Parish,05000US22077,11.5
+Louisiana,Rapides Parish,05000US22079,13.2
+Louisiana,Red River Parish,05000US22081,13
+Louisiana,Richland Parish,05000US22083,13.8
+Louisiana,Sabine Parish,05000US22085,14.8
+Louisiana,St. Bernard Parish,05000US22087,13.8
+Louisiana,St. Charles Parish,05000US22089,11.3
+Louisiana,St. Helena Parish,05000US22091,15.8
+Louisiana,St. James Parish,05000US22093,14.6
+Louisiana,St. John the Baptist Pa,05000US22095,14.4
+Louisiana,St. Landry Parish,05000US22097,13.9
+Louisiana,St. Martin Parish,05000US22099,10.7
+Louisiana,St. Mary Parish,05000US22101,15
+Louisiana,St. Tammany Parish,05000US22103,9.6
+Louisiana,Tangipahoa Parish,05000US22105,11.9
+Louisiana,Tensas Parish,05000US22107,16.3
+Louisiana,Terrebonne Parish,05000US22109,11.7
+Louisiana,Union Parish,05000US22111,15.6
+Louisiana,Vermilion Parish,05000US22113,10.9
+Louisiana,Vernon Parish,05000US22115,12.3
+Louisiana,Washington Parish,05000US22117,15
+Louisiana,Webster Parish,05000US22119,12.9
+Louisiana,West Baton Rouge Parish,05000US22121,14.2
+Louisiana,West Carroll Parish,05000US22123,15.5
+Louisiana,West Feliciana Parish,05000US22125,12.2
+Louisiana,Winn Parish,05000US22127,12.5
+Maine,Androscoggin County,05000US23001,11.2
+Maine,Aroostook County,05000US23003,13.3
+Maine,Cumberland County,05000US23005,7.9
+Maine,Franklin County,05000US23007,9.4
+Maine,Hancock County,05000US23009,8.5
+Maine,Kennebec County,05000US23011,10.8
+Maine,Knox County,05000US23013,7.5
+Maine,Lincoln County,05000US23015,9
+Maine,Oxford County,05000US23017,10.9
+Maine,Penobscot County,05000US23019,10.5
+Maine,Piscataquis County,05000US23021,12.3
+Maine,Sagadahoc County,05000US23023,9.4
+Maine,Somerset County,05000US23025,11.5
+Maine,Waldo County,05000US23027,9.8
+Maine,Washington County,05000US23029,11.4
+Maine,York County,05000US23031,9.7
+Maryland,Allegany County,05000US24001,12.8
+Maryland,Anne Arundel County,05000US24003,9.3
+Maryland,Baltimore County,05000US24005,10.4
+Maryland,Calvert County,05000US24009,9.1
+Maryland,Caroline County,05000US24011,11.9
+Maryland,Carroll County,05000US24013,9.5
+Maryland,Cecil County,05000US24015,11.2
+Maryland,Charles County,05000US24017,11.4
+Maryland,Dorchester County,05000US24019,15.5
+Maryland,Frederick County,05000US24021,9
+Maryland,Garrett County,05000US24023,12.2
+Maryland,Harford County,05000US24025,9.4
+Maryland,Howard County,05000US24027,7.5
+Maryland,Kent County,05000US24029,9.9
+Maryland,Montgomery County,05000US24031,7.6
+Maryland,Prince George's County,05000US24033,11.8
+Maryland,Queen Anne's County,05000US24035,9.9
+Maryland,St. Mary's County,05000US24037,11
+Maryland,Somerset County,05000US24039,13.7
+Maryland,Talbot County,05000US24041,11.4
+Maryland,Washington County,05000US24043,12.8
+Maryland,Wicomico County,05000US24045,12.3
+Maryland,Worcester County,05000US24047,13.6
+Maryland,Baltimore city,05000US24510,12.3
+Massachusetts,Barnstable County,05000US25001,8.6
+Massachusetts,Berkshire County,05000US25003,9.7
+Massachusetts,Bristol County,05000US25005,11.1
+Massachusetts,Dukes County,05000US25007,8
+Massachusetts,Essex County,05000US25009,10.3
+Massachusetts,Franklin County,05000US25011,8.3
+Massachusetts,Hampden County,05000US25013,11.1
+Massachusetts,Hampshire County,05000US25015,6.8
+Massachusetts,Middlesex County,05000US25017,8.3
+Massachusetts,Nantucket County,05000US25019,8.1
+Massachusetts,Norfolk County,05000US25021,8.6
+Massachusetts,Plymouth County,05000US25023,10.7
+Massachusetts,Suffolk County,05000US25025,7.5
+Massachusetts,Worcester County,05000US25027,9.7
+Michigan,Alcona County,05000US26001,14
+Michigan,Alger County,05000US26003,11
+Michigan,Allegan County,05000US26005,10.3
+Michigan,Alpena County,05000US26007,11.4
+Michigan,Antrim County,05000US26009,12.9
+Michigan,Arenac County,05000US26011,14.6
+Michigan,Baraga County,05000US26013,11
+Michigan,Barry County,05000US26015,9.6
+Michigan,Bay County,05000US26017,11.3
+Michigan,Benzie County,05000US26019,12.6
+Michigan,Berrien County,05000US26021,12.5
+Michigan,Branch County,05000US26023,10
+Michigan,Calhoun County,05000US26025,12.5
+Michigan,Cass County,05000US26027,12.2
+Michigan,Charlevoix County,05000US26029,10
+Michigan,Cheboygan County,05000US26031,12.1
+Michigan,Chippewa County,05000US26033,12.1
+Michigan,Clare County,05000US26035,11.9
+Michigan,Clinton County,05000US26037,10.6
+Michigan,Crawford County,05000US26039,11.1
+Michigan,Delta County,05000US26041,12.3
+Michigan,Dickinson County,05000US26043,12.7
+Michigan,Eaton County,05000US26045,11.4
+Michigan,Emmet County,05000US26047,9.2
+Michigan,Genesee County,05000US26049,12.2
+Michigan,Gladwin County,05000US26051,13.8
+Michigan,Gogebic County,05000US26053,11.4
+Michigan,Grand Traverse County,05000US26055,9
+Michigan,Gratiot County,05000US26057,9.9
+Michigan,Hillsdale County,05000US26059,11
+Michigan,Houghton County,05000US26061,9.7
+Michigan,Huron County,05000US26063,10.8
+Michigan,Ingham County,05000US26065,9.2
+Michigan,Ionia County,05000US26067,10.3
+Michigan,Iosco County,05000US26069,12.9
+Michigan,Iron County,05000US26071,13
+Michigan,Isabella County,05000US26073,8.5
+Michigan,Jackson County,05000US26075,11.3
+Michigan,Kalamazoo County,05000US26077,7.8
+Michigan,Kalkaska County,05000US26079,13
+Michigan,Kent County,05000US26081,9.2
+Michigan,Keweenaw County,05000US26083,12.6
+Michigan,Lake County,05000US26085,13
+Michigan,Lapeer County,05000US26087,10.7
+Michigan,Leelanau County,05000US26089,12.7
+Michigan,Lenawee County,05000US26091,11.2
+Michigan,Livingston County,05000US26093,9
+Michigan,Luce County,05000US26095,12
+Michigan,Mackinac County,05000US26097,13.1
+Michigan,Macomb County,05000US26099,9.9
+Michigan,Manistee County,05000US26101,11.1
+Michigan,Marquette County,05000US26103,10.1
+Michigan,Mason County,05000US26105,11.3
+Michigan,Mecosta County,05000US26107,10.2
+Michigan,Menominee County,05000US26109,10.7
+Michigan,Midland County,05000US26111,9.5
+Michigan,Missaukee County,05000US26113,11.7
+Michigan,Monroe County,05000US26115,11.1
+Michigan,Montcalm County,05000US26117,11.2
+Michigan,Montmorency County,05000US26119,12.5
+Michigan,Muskegon County,05000US26121,12.4
+Michigan,Newaygo County,05000US26123,10.6
+Michigan,Oakland County,05000US26125,9.3
+Michigan,Oceana County,05000US26127,13
+Michigan,Ogemaw County,05000US26129,13.6
+Michigan,Ontonagon County,05000US26131,13.3
+Michigan,Osceola County,05000US26133,11.4
+Michigan,Oscoda County,05000US26135,13
+Michigan,Otsego County,05000US26137,11
+Michigan,Ottawa County,05000US26139,7.8
+Michigan,Presque Isle County,05000US26141,14
+Michigan,Roscommon County,05000US26143,14.4
+Michigan,Saginaw County,05000US26145,12.8
+Michigan,St. Clair County,05000US26147,11.2
+Michigan,St. Joseph County,05000US26149,10.8
+Michigan,Sanilac County,05000US26151,10.2
+Michigan,Schoolcraft County,05000US26153,12.6
+Michigan,Shiawassee County,05000US26155,11.3
+Michigan,Tuscola County,05000US26157,12.6
+Michigan,Van Buren County,05000US26159,11.8
+Michigan,Washtenaw County,05000US26161,7.6
+Michigan,Wayne County,05000US26163,12
+Michigan,Wexford County,05000US26165,11.2
+Minnesota,Aitkin County,05000US27001,11.5
+Minnesota,Anoka County,05000US27003,8
+Minnesota,Becker County,05000US27005,8.9
+Minnesota,Beltrami County,05000US27007,9.3
+Minnesota,Benton County,05000US27009,7.9
+Minnesota,Big Stone County,05000US27011,9.4
+Minnesota,Blue Earth County,05000US27013,6.8
+Minnesota,Brown County,05000US27015,8.9
+Minnesota,Carlton County,05000US27017,9.5
+Minnesota,Carver County,05000US27019,6.8
+Minnesota,Cass County,05000US27021,10.2
+Minnesota,Chippewa County,05000US27023,9.3
+Minnesota,Chisago County,05000US27025,8.4
+Minnesota,Clay County,05000US27027,6.4
+Minnesota,Clearwater County,05000US27029,10
+Minnesota,Cook County,05000US27031,9.2
+Minnesota,Cottonwood County,05000US27033,10.2
+Minnesota,Crow Wing County,05000US27035,10.4
+Minnesota,Dakota County,05000US27037,6.9
+Minnesota,Dodge County,05000US27039,8.3
+Minnesota,Douglas County,05000US27041,7.6
+Minnesota,Faribault County,05000US27043,8.8
+Minnesota,Fillmore County,05000US27045,8.5
+Minnesota,Freeborn County,05000US27047,8
+Minnesota,Goodhue County,05000US27049,9.8
+Minnesota,Grant County,05000US27051,9.2
+Minnesota,Hennepin County,05000US27053,6.8
+Minnesota,Houston County,05000US27055,9.3
+Minnesota,Hubbard County,05000US27057,8.2
+Minnesota,Isanti County,05000US27059,7.8
+Minnesota,Itasca County,05000US27061,8.9
+Minnesota,Jackson County,05000US27063,9.5
+Minnesota,Kanabec County,05000US27065,10.2
+Minnesota,Kandiyohi County,05000US27067,8.1
+Minnesota,Kittson County,05000US27069,9.7
+Minnesota,Koochiching County,05000US27071,11.1
+Minnesota,Lac qui Parle County,05000US27073,10.1
+Minnesota,Lake County,05000US27075,9.5
+Minnesota,Lake of the Woods Count,05000US27077,9.4
+Minnesota,Le Sueur County,05000US27079,8.4
+Minnesota,Lincoln County,05000US27081,9.3
+Minnesota,Lyon County,05000US27083,8.3
+Minnesota,McLeod County,05000US27085,9.2
+Minnesota,Mahnomen County,05000US27087,11.2
+Minnesota,Marshall County,05000US27089,9.7
+Minnesota,Martin County,05000US27091,9.7
+Minnesota,Meeker County,05000US27093,10.6
+Minnesota,Mille Lacs County,05000US27095,11.6
+Minnesota,Morrison County,05000US27097,8.2
+Minnesota,Mower County,05000US27099,8.4
+Minnesota,Murray County,05000US27101,11.3
+Minnesota,Nicollet County,05000US27103,7.7
+Minnesota,Nobles County,05000US27105,7.8
+Minnesota,Norman County,05000US27107,9.1
+Minnesota,Olmsted County,05000US27109,7
+Minnesota,Otter Tail County,05000US27111,10.3
+Minnesota,Pennington County,05000US27113,8.3
+Minnesota,Pine County,05000US27115,10.6
+Minnesota,Pipestone County,05000US27117,9.3
+Minnesota,Polk County,05000US27119,9.6
+Minnesota,Pope County,05000US27121,9.5
+Minnesota,Ramsey County,05000US27123,8.2
+Minnesota,Red Lake County,05000US27125,8.7
+Minnesota,Redwood County,05000US27127,9.1
+Minnesota,Renville County,05000US27129,8.2
+Minnesota,Rice County,05000US27131,7.3
+Minnesota,Rock County,05000US27133,9.5
+Minnesota,Roseau County,05000US27135,9.3
+Minnesota,St. Louis County,05000US27137,9.8
+Minnesota,Scott County,05000US27139,5.7
+Minnesota,Sherburne County,05000US27141,7.1
+Minnesota,Sibley County,05000US27143,8.9
+Minnesota,Stearns County,05000US27145,7.6
+Minnesota,Steele County,05000US27147,8
+Minnesota,Stevens County,05000US27149,7.9
+Minnesota,Swift County,05000US27151,8.6
+Minnesota,Todd County,05000US27153,8.1
+Minnesota,Traverse County,05000US27155,11.3
+Minnesota,Wabasha County,05000US27157,7.7
+Minnesota,Wadena County,05000US27159,10
+Minnesota,Waseca County,05000US27161,6.8
+Minnesota,Washington County,05000US27163,8.2
+Minnesota,Watonwan County,05000US27165,7.9
+Minnesota,Wilkin County,05000US27167,9.3
+Minnesota,Winona County,05000US27169,8.1
+Minnesota,Wright County,05000US27171,8.3
+Minnesota,Yellow Medicine County,05000US27173,9.2
+Mississippi,Adams County,05000US28001,13.9
+Mississippi,Alcorn County,05000US28003,14.3
+Mississippi,Amite County,05000US28005,17.6
+Mississippi,Attala County,05000US28007,15.4
+Mississippi,Benton County,05000US28009,15.9
+Mississippi,Bolivar County,05000US28011,16.5
+Mississippi,Calhoun County,05000US28013,14.7
+Mississippi,Carroll County,05000US28015,16.8
+Mississippi,Chickasaw County,05000US28017,15.2
+Mississippi,Choctaw County,05000US28019,15.8
+Mississippi,Claiborne County,05000US28021,17
+Mississippi,Clarke County,05000US28023,14.9
+Mississippi,Clay County,05000US28025,14.6
+Mississippi,Coahoma County,05000US28027,16.8
+Mississippi,Copiah County,05000US28029,15
+Mississippi,Covington County,05000US28031,16.3
+Mississippi,DeSoto County,05000US28033,12.8
+Mississippi,Forrest County,05000US28035,11.1
+Mississippi,Franklin County,05000US28037,16.1
+Mississippi,George County,05000US28039,13.1
+Mississippi,Greene County,05000US28041,13
+Mississippi,Grenada County,05000US28043,14.5
+Mississippi,Hancock County,05000US28045,13.6
+Mississippi,Harrison County,05000US28047,13.4
+Mississippi,Hinds County,05000US28049,12.4
+Mississippi,Holmes County,05000US28051,17.5
+Mississippi,Humphreys County,05000US28053,17.3
+Mississippi,Issaquena County,05000US28055,15.5
+Mississippi,Itawamba County,05000US28057,12.8
+Mississippi,Jackson County,05000US28059,14.3
+Mississippi,Jasper County,05000US28061,16.8
+Mississippi,Jefferson County,05000US28063,16.9
+Mississippi,Jefferson Davis County,05000US28065,15.6
+Mississippi,Jones County,05000US28067,14.6
+Mississippi,Kemper County,05000US28069,15.9
+Mississippi,Lafayette County,05000US28071,10.4
+Mississippi,Lamar County,05000US28073,10.8
+Mississippi,Lauderdale County,05000US28075,13.3
+Mississippi,Lawrence County,05000US28077,15.9
+Mississippi,Leake County,05000US28079,13.5
+Mississippi,Lee County,05000US28081,13.7
+Mississippi,Leflore County,05000US28083,16.1
+Mississippi,Lincoln County,05000US28085,12.9
+Mississippi,Lowndes County,05000US28087,13.6
+Mississippi,Madison County,05000US28089,10.2
+Mississippi,Marion County,05000US28091,13.6
+Mississippi,Marshall County,05000US28093,15.5
+Mississippi,Monroe County,05000US28095,14.2
+Mississippi,Montgomery County,05000US28097,14.4
+Mississippi,Neshoba County,05000US28099,13.4
+Mississippi,Newton County,05000US28101,15.6
+Mississippi,Noxubee County,05000US28103,17.7
+Mississippi,Oktibbeha County,05000US28105,10.2
+Mississippi,Panola County,05000US28107,14.5
+Mississippi,Pearl River County,05000US28109,12.7
+Mississippi,Perry County,05000US28111,11.8
+Mississippi,Pike County,05000US28113,15.6
+Mississippi,Pontotoc County,05000US28115,13.5
+Mississippi,Prentiss County,05000US28117,16.3
+Mississippi,Quitman County,05000US28119,15.4
+Mississippi,Rankin County,05000US28121,11.1
+Mississippi,Scott County,05000US28123,15.1
+Mississippi,Sharkey County,05000US28125,17.1
+Mississippi,Simpson County,05000US28127,13.9
+Mississippi,Smith County,05000US28129,14.4
+Mississippi,Stone County,05000US28131,12.4
+Mississippi,Sunflower County,05000US28133,15.2
+Mississippi,Tallahatchie County,05000US28135,15.3
+Mississippi,Tate County,05000US28137,16.7
+Mississippi,Tippah County,05000US28139,12.8
+Mississippi,Tishomingo County,05000US28141,15
+Mississippi,Tunica County,05000US28143,16.2
+Mississippi,Union County,05000US28145,11.3
+Mississippi,Walthall County,05000US28147,17
+Mississippi,Warren County,05000US28149,15
+Mississippi,Washington County,05000US28151,14.9
+Mississippi,Wayne County,05000US28153,15.5
+Mississippi,Webster County,05000US28155,14.7
+Mississippi,Wilkinson County,05000US28157,18.1
+Mississippi,Winston County,05000US28159,15
+Mississippi,Yalobusha County,05000US28161,18.2
+Mississippi,Yazoo County,05000US28163,14.3
+Missouri,Adair County,05000US29001,9
+Missouri,Andrew County,05000US29003,9.9
+Missouri,Atchison County,05000US29005,12.2
+Missouri,Audrain County,05000US29007,11.7
+Missouri,Barry County,05000US29009,11
+Missouri,Barton County,05000US29011,13.9
+Missouri,Bates County,05000US29013,11.3
+Missouri,Benton County,05000US29015,13.9
+Missouri,Bollinger County,05000US29017,10.9
+Missouri,Boone County,05000US29019,7.5
+Missouri,Buchanan County,05000US29021,11.6
+Missouri,Butler County,05000US29023,11.7
+Missouri,Caldwell County,05000US29025,13.2
+Missouri,Callaway County,05000US29027,10
+Missouri,Camden County,05000US29029,10.6
+Missouri,Cape Girardeau County,05000US29031,11.3
+Missouri,Carroll County,05000US29033,11.2
+Missouri,Carter County,05000US29035,11.2
+Missouri,Cass County,05000US29037,10.8
+Missouri,Cedar County,05000US29039,13
+Missouri,Chariton County,05000US29041,11.5
+Missouri,Christian County,05000US29043,10.5
+Missouri,Clark County,05000US29045,11.1
+Missouri,Clay County,05000US29047,10.4
+Missouri,Clinton County,05000US29049,10.9
+Missouri,Cole County,05000US29051,10.1
+Missouri,Cooper County,05000US29053,11
+Missouri,Crawford County,05000US29055,10.4
+Missouri,Dade County,05000US29057,13.3
+Missouri,Dallas County,05000US29059,12.1
+Missouri,Daviess County,05000US29061,10.5
+Missouri,DeKalb County,05000US29063,12.1
+Missouri,Dent County,05000US29065,13.6
+Missouri,Douglas County,05000US29067,11.9
+Missouri,Dunklin County,05000US29069,11.4
+Missouri,Franklin County,05000US29071,10.5
+Missouri,Gasconade County,05000US29073,12.4
+Missouri,Gentry County,05000US29075,11.9
+Missouri,Greene County,05000US29077,8.8
+Missouri,Grundy County,05000US29079,10.6
+Missouri,Harrison County,05000US29081,12.8
+Missouri,Henry County,05000US29083,11.8
+Missouri,Hickory County,05000US29085,13.1
+Missouri,Holt County,05000US29087,11.5
+Missouri,Howard County,05000US29089,10
+Missouri,Howell County,05000US29091,12.3
+Missouri,Iron County,05000US29093,11.3
+Missouri,Jackson County,05000US29095,11.2
+Missouri,Jasper County,05000US29097,10.8
+Missouri,Jefferson County,05000US29099,10.6
+Missouri,Johnson County,05000US29101,9.8
+Missouri,Knox County,05000US29103,10.9
+Missouri,Laclede County,05000US29105,11.7
+Missouri,Lafayette County,05000US29107,11.9
+Missouri,Lawrence County,05000US29109,10
+Missouri,Lewis County,05000US29111,10.8
+Missouri,Lincoln County,05000US29113,11.5
+Missouri,Linn County,05000US29115,12.2
+Missouri,Livingston County,05000US29117,10
+Missouri,McDonald County,05000US29119,10.3
+Missouri,Macon County,05000US29121,12.6
+Missouri,Madison County,05000US29123,11.2
+Missouri,Maries County,05000US29125,12.4
+Missouri,Marion County,05000US29127,12.5
+Missouri,Mercer County,05000US29129,11.5
+Missouri,Miller County,05000US29131,11.7
+Missouri,Mississippi County,05000US29133,12.6
+Missouri,Moniteau County,05000US29135,9.6
+Missouri,Monroe County,05000US29137,12.6
+Missouri,Montgomery County,05000US29139,11.8
+Missouri,Morgan County,05000US29141,11.3
+Missouri,New Madrid County,05000US29143,12.2
+Missouri,Newton County,05000US29145,9.3
+Missouri,Nodaway County,05000US29147,10.6
+Missouri,Oregon County,05000US29149,10.3
+Missouri,Osage County,05000US29151,11.3
+Missouri,Ozark County,05000US29153,15.1
+Missouri,Pemiscot County,05000US29155,13.1
+Missouri,Perry County,05000US29157,10.9
+Missouri,Pettis County,05000US29159,12.4
+Missouri,Phelps County,05000US29161,11.4
+Missouri,Pike County,05000US29163,11.3
+Missouri,Platte County,05000US29165,11.3
+Missouri,Polk County,05000US29167,11.4
+Missouri,Pulaski County,05000US29169,8.5
+Missouri,Putnam County,05000US29171,11.8
+Missouri,Ralls County,05000US29173,13
+Missouri,Randolph County,05000US29175,12
+Missouri,Ray County,05000US29177,11.5
+Missouri,Reynolds County,05000US29179,12.2
+Missouri,Ripley County,05000US29181,11.2
+Missouri,St. Charles County,05000US29183,8.4
+Missouri,St. Clair County,05000US29185,12.4
+Missouri,Ste. Genevieve County,05000US29186,10.5
+Missouri,St. Francois County,05000US29187,12.2
+Missouri,St. Louis County,05000US29189,10.8
+Missouri,Saline County,05000US29195,11
+Missouri,Schuyler County,05000US29197,11.4
+Missouri,Scotland County,05000US29199,10
+Missouri,Scott County,05000US29201,12.6
+Missouri,Shannon County,05000US29203,12.2
+Missouri,Shelby County,05000US29205,11.5
+Missouri,Stoddard County,05000US29207,13.6
+Missouri,Stone County,05000US29209,13
+Missouri,Sullivan County,05000US29211,11.4
+Missouri,Taney County,05000US29213,10.8
+Missouri,Texas County,05000US29215,13
+Missouri,Vernon County,05000US29217,13.2
+Missouri,Warren County,05000US29219,11.8
+Missouri,Washington County,05000US29221,14.1
+Missouri,Wayne County,05000US29223,13.6
+Missouri,Webster County,05000US29225,9.8
+Missouri,Worth County,05000US29227,12.5
+Missouri,Wright County,05000US29229,10.7
+Missouri,St. Louis city,05000US29510,13.5
+Montana,Beaverhead County,05000US30001,7.7
+Montana,Big Horn County,05000US30003,13.4
+Montana,Blaine County,05000US30005,11.9
+Montana,Broadwater County,05000US30007,8.8
+Montana,Carbon County,05000US30009,9
+Montana,Carter County,05000US30011,9.3
+Montana,Cascade County,05000US30013,9.1
+Montana,Chouteau County,05000US30015,8.1
+Montana,Custer County,05000US30017,9.9
+Montana,Daniels County,05000US30019,9
+Montana,Dawson County,05000US30021,9.6
+Montana,Deer Lodge County,05000US30023,9.9
+Montana,Fallon County,05000US30025,7.6
+Montana,Fergus County,05000US30027,9.2
+Montana,Flathead County,05000US30029,7.1
+Montana,Gallatin County,05000US30031,4.3
+Montana,Garfield County,05000US30033,8.3
+Montana,Glacier County,05000US30035,13.5
+Montana,Golden Valley County,05000US30037,9.7
+Montana,Granite County,05000US30039,9.1
+Montana,Hill County,05000US30041,11.1
+Montana,Jefferson County,05000US30043,8.6
+Montana,Judith Basin County,05000US30045,8.7
+Montana,Lake County,05000US30047,10.8
+Montana,Lewis and Clark County,05000US30049,7.7
+Montana,Liberty County,05000US30051,8.9
+Montana,Lincoln County,05000US30053,11.7
+Montana,McCone County,05000US30055,9.4
+Montana,Madison County,05000US30057,9.4
+Montana,Meagher County,05000US30059,8.9
+Montana,Mineral County,05000US30061,10.8
+Montana,Missoula County,05000US30063,5.2
+Montana,Musselshell County,05000US30065,9.6
+Montana,Park County,05000US30067,7.6
+Montana,Petroleum County,05000US30069,9.5
+Montana,Phillips County,05000US30071,9.8
+Montana,Pondera County,05000US30073,10.4
+Montana,Powder River County,05000US30075,7.5
+Montana,Powell County,05000US30077,10.1
+Montana,Prairie County,05000US30079,10
+Montana,Ravalli County,05000US30081,8.9
+Montana,Richland County,05000US30083,7.6
+Montana,Roosevelt County,05000US30085,12.8
+Montana,Rosebud County,05000US30087,11.7
+Montana,Sanders County,05000US30089,11.1
+Montana,Sheridan County,05000US30091,10.3
+Montana,Silver Bow County,05000US30093,8.3
+Montana,Stillwater County,05000US30095,7.8
+Montana,Sweet Grass County,05000US30097,9.9
+Montana,Teton County,05000US30099,8.8
+Montana,Toole County,05000US30101,8.6
+Montana,Treasure County,05000US30103,9.9
+Montana,Valley County,05000US30105,9.8
+Montana,Wheatland County,05000US30107,9.8
+Montana,Wibaux County,05000US30109,9.2
+Montana,Yellowstone County,05000US30111,8.4
+Nebraska,Adams County,05000US31001,10.8
+Nebraska,Antelope County,05000US31003,10.6
+Nebraska,Arthur County,05000US31005,8.3
+Nebraska,Banner County,05000US31007,13.1
+Nebraska,Blaine County,05000US31009,9.1
+Nebraska,Boone County,05000US31011,9.4
+Nebraska,Box Butte County,05000US31013,11.8
+Nebraska,Boyd County,05000US31015,13.9
+Nebraska,Brown County,05000US31017,10.3
+Nebraska,Buffalo County,05000US31019,6.7
+Nebraska,Burt County,05000US31021,10.3
+Nebraska,Butler County,05000US31023,9
+Nebraska,Cass County,05000US31025,8.9
+Nebraska,Cedar County,05000US31027,8.8
+Nebraska,Chase County,05000US31029,10.2
+Nebraska,Cherry County,05000US31031,8.3
+Nebraska,Cheyenne County,05000US31033,7.6
+Nebraska,Clay County,05000US31035,9.5
+Nebraska,Colfax County,05000US31037,8.5
+Nebraska,Cuming County,05000US31039,8.8
+Nebraska,Custer County,05000US31041,9.7
+Nebraska,Dakota County,05000US31043,9.2
+Nebraska,Dawes County,05000US31045,9.5
+Nebraska,Dawson County,05000US31047,9.4
+Nebraska,Deuel County,05000US31049,9.7
+Nebraska,Dixon County,05000US31051,10.2
+Nebraska,Dodge County,05000US31053,10
+Nebraska,Douglas County,05000US31055,8.8
+Nebraska,Dundy County,05000US31057,10.8
+Nebraska,Fillmore County,05000US31059,10.1
+Nebraska,Franklin County,05000US31061,10.6
+Nebraska,Frontier County,05000US31063,9.7
+Nebraska,Furnas County,05000US31065,12.8
+Nebraska,Gage County,05000US31067,10.9
+Nebraska,Garden County,05000US31069,9.9
+Nebraska,Garfield County,05000US31071,9.5
+Nebraska,Gosper County,05000US31073,9.9
+Nebraska,Grant County,05000US31075,10.4
+Nebraska,Greeley County,05000US31077,9.6
+Nebraska,Hall County,05000US31079,8.7
+Nebraska,Hamilton County,05000US31081,7.3
+Nebraska,Harlan County,05000US31083,10.8
+Nebraska,Hayes County,05000US31085,9.9
+Nebraska,Hitchcock County,05000US31087,11.3
+Nebraska,Holt County,05000US31089,8.9
+Nebraska,Hooker County,05000US31091,10.5
+Nebraska,Howard County,05000US31093,9.3
+Nebraska,Jefferson County,05000US31095,12.1
+Nebraska,Johnson County,05000US31097,9.2
+Nebraska,Kearney County,05000US31099,8.4
+Nebraska,Keith County,05000US31101,9.1
+Nebraska,Keya Paha County,05000US31103,10.7
+Nebraska,Kimball County,05000US31105,10.5
+Nebraska,Knox County,05000US31107,10.4
+Nebraska,Lancaster County,05000US31109,7.6
+Nebraska,Lincoln County,05000US31111,10.3
+Nebraska,Logan County,05000US31113,9.3
+Nebraska,Loup County,05000US31115,11.1
+Nebraska,McPherson County,05000US31117,10.1
+Nebraska,Madison County,05000US31119,9.4
+Nebraska,Merrick County,05000US31121,11.1
+Nebraska,Morrill County,05000US31123,9.2
+Nebraska,Nance County,05000US31125,11.4
+Nebraska,Nemaha County,05000US31127,10
+Nebraska,Nuckolls County,05000US31129,9.4
+Nebraska,Otoe County,05000US31131,11.5
+Nebraska,Pawnee County,05000US31133,10.3
+Nebraska,Perkins County,05000US31135,8.6
+Nebraska,Phelps County,05000US31137,10
+Nebraska,Pierce County,05000US31139,10.7
+Nebraska,Platte County,05000US31141,9.4
+Nebraska,Polk County,05000US31143,9
+Nebraska,Red Willow County,05000US31145,8.4
+Nebraska,Richardson County,05000US31147,9.8
+Nebraska,Rock County,05000US31149,11.3
+Nebraska,Saline County,05000US31151,8.5
+Nebraska,Sarpy County,05000US31153,8.4
+Nebraska,Saunders County,05000US31155,8.6
+Nebraska,Scotts Bluff County,05000US31157,10.5
+Nebraska,Seward County,05000US31159,7.7
+Nebraska,Sheridan County,05000US31161,11.3
+Nebraska,Sherman County,05000US31163,10.7
+Nebraska,Sioux County,05000US31165,8.2
+Nebraska,Stanton County,05000US31167,9.5
+Nebraska,Thayer County,05000US31169,10.2
+Nebraska,Thomas County,05000US31171,10
+Nebraska,Thurston County,05000US31173,16.8
+Nebraska,Valley County,05000US31175,11.6
+Nebraska,Washington County,05000US31177,8
+Nebraska,Wayne County,05000US31179,6.6
+Nebraska,Webster County,05000US31181,10.2
+Nebraska,Wheeler County,05000US31183,9.3
+Nebraska,York County,05000US31185,8.4
+Nevada,Churchill County,05000US32001,9.5
+Nevada,Clark County,05000US32003,9.2
+Nevada,Douglas County,05000US32005,8
+Nevada,Elko County,05000US32007,8.1
+Nevada,Esmeralda County,05000US32009,10.6
+Nevada,Eureka County,05000US32011,8.6
+Nevada,Humboldt County,05000US32013,6.8
+Nevada,Lander County,05000US32015,7.8
+Nevada,Lincoln County,05000US32017,9.5
+Nevada,Lyon County,05000US32019,9.3
+Nevada,Mineral County,05000US32021,11.2
+Nevada,Nye County,05000US32023,12.5
+Nevada,Pershing County,05000US32027,7.8
+Nevada,Storey County,05000US32029,11.1
+Nevada,Washoe County,05000US32031,7.1
+Nevada,White Pine County,05000US32033,9.2
+Nevada,Carson City,05000US32510,8.2
+New Hampshire,Belknap County,05000US33001,10.6
+New Hampshire,Carroll County,05000US33003,10.1
+New Hampshire,Cheshire County,05000US33005,9
+New Hampshire,Coos County,05000US33007,12.3
+New Hampshire,Grafton County,05000US33009,8.8
+New Hampshire,Hillsborough County,05000US33011,9.1
+New Hampshire,Merrimack County,05000US33013,9.1
+New Hampshire,Rockingham County,05000US33015,9.1
+New Hampshire,Strafford County,05000US33017,10.5
+New Hampshire,Sullivan County,05000US33019,10.2
+New Jersey,Atlantic County,05000US34001,11.3
+New Jersey,Bergen County,05000US34003,8
+New Jersey,Burlington County,05000US34005,9.5
+New Jersey,Camden County,05000US34007,10.4
+New Jersey,Cape May County,05000US34009,11
+New Jersey,Cumberland County,05000US34011,11.6
+New Jersey,Essex County,05000US34013,10.7
+New Jersey,Gloucester County,05000US34015,11.3
+New Jersey,Hudson County,05000US34017,7.4
+New Jersey,Hunterdon County,05000US34019,7
+New Jersey,Mercer County,05000US34021,9.6
+New Jersey,Middlesex County,05000US34023,9.8
+New Jersey,Monmouth County,05000US34025,8.9
+New Jersey,Morris County,05000US34027,7.9
+New Jersey,Ocean County,05000US34029,11.2
+New Jersey,Passaic County,05000US34031,8.3
+New Jersey,Salem County,05000US34033,11.7
+New Jersey,Somerset County,05000US34035,8.4
+New Jersey,Sussex County,05000US34037,8.6
+New Jersey,Union County,05000US34039,7.8
+New Jersey,Warren County,05000US34041,9.2
+New Mexico,Bernalillo County,05000US35001,7.4
+New Mexico,Catron County,05000US35003,10.2
+New Mexico,Chaves County,05000US35005,9.2
+New Mexico,Cibola County,05000US35006,13.4
+New Mexico,Colfax County,05000US35007,9.2
+New Mexico,Curry County,05000US35009,7.9
+New Mexico,De Baca County,05000US35011,9.8
+New Mexico,Doña Ana County,05000US35013,7.4
+New Mexico,Eddy County,05000US35015,9.7
+New Mexico,Grant County,05000US35017,9.7
+New Mexico,Guadalupe County,05000US35019,8.4
+New Mexico,Harding County,05000US35021,10.3
+New Mexico,Hidalgo County,05000US35023,9
+New Mexico,Lea County,05000US35025,8
+New Mexico,Lincoln County,05000US35027,7.9
+New Mexico,Los Alamos County,05000US35028,7
+New Mexico,Luna County,05000US35029,10.6
+New Mexico,McKinley County,05000US35031,13.6
+New Mexico,Mora County,05000US35033,11.3
+New Mexico,Otero County,05000US35035,9.5
+New Mexico,Quay County,05000US35037,9.6
+New Mexico,Rio Arriba County,05000US35039,8.8
+New Mexico,Roosevelt County,05000US35041,9.4
+New Mexico,Sandoval County,05000US35043,8
+New Mexico,San Juan County,05000US35045,10
+New Mexico,San Miguel County,05000US35047,8.8
+New Mexico,Santa Fe County,05000US35049,4.7
+New Mexico,Sierra County,05000US35051,10.1
+New Mexico,Socorro County,05000US35053,10.4
+New Mexico,Taos County,05000US35055,7.7
+New Mexico,Torrance County,05000US35057,9.9
+New Mexico,Union County,05000US35059,9.5
+New Mexico,Valencia County,05000US35061,9
+New York,Albany County,05000US36001,9.8
+New York,Allegany County,05000US36003,9.3
+New York,Bronx County,05000US36005,12.3
+New York,Broome County,05000US36007,9.9
+New York,Cattaraugus County,05000US36009,9.3
+New York,Cayuga County,05000US36011,10
+New York,Chautauqua County,05000US36013,9.9
+New York,Chemung County,05000US36015,9.4
+New York,Chenango County,05000US36017,10.2
+New York,Clinton County,05000US36019,9.9
+New York,Columbia County,05000US36021,10.6
+New York,Cortland County,05000US36023,8.3
+New York,Delaware County,05000US36025,10.8
+New York,Dutchess County,05000US36027,9.6
+New York,Erie County,05000US36029,9.4
+New York,Essex County,05000US36031,9.7
+New York,Franklin County,05000US36033,9.6
+New York,Fulton County,05000US36035,10.1
+New York,Genesee County,05000US36037,9.3
+New York,Greene County,05000US36039,9.5
+New York,Hamilton County,05000US36041,11
+New York,Herkimer County,05000US36043,9.2
+New York,Jefferson County,05000US36045,9.4
+New York,Kings County,05000US36047,10.3
+New York,Lewis County,05000US36049,9.9
+New York,Livingston County,05000US36051,10.5
+New York,Madison County,05000US36053,9.6
+New York,Monroe County,05000US36055,9.7
+New York,Montgomery County,05000US36057,9.4
+New York,Nassau County,05000US36059,8.3
+New York,New York County,05000US36061,6.7
+New York,Niagara County,05000US36063,9.5
+New York,Oneida County,05000US36065,10
+New York,Onondaga County,05000US36067,9.1
+New York,Ontario County,05000US36069,7.6
+New York,Orange County,05000US36071,9.7
+New York,Orleans County,05000US36073,9.7
+New York,Oswego County,05000US36075,10.7
+New York,Otsego County,05000US36077,9.3
+New York,Putnam County,05000US36079,7.6
+New York,Queens County,05000US36081,11.2
+New York,Rensselaer County,05000US36083,8.9
+New York,Richmond County,05000US36085,9.5
+New York,Rockland County,05000US36087,10.3
+New York,St. Lawrence County,05000US36089,10.6
+New York,Saratoga County,05000US36091,8.5
+New York,Schenectady County,05000US36093,9.9
+New York,Schoharie County,05000US36095,9.8
+New York,Schuyler County,05000US36097,10.7
+New York,Seneca County,05000US36099,8.9
+New York,Steuben County,05000US36101,11.2
+New York,Suffolk County,05000US36103,8.8
+New York,Sullivan County,05000US36105,10.5
+New York,Tioga County,05000US36107,10.5
+New York,Tompkins County,05000US36109,7.5
+New York,Ulster County,05000US36111,9.3
+New York,Warren County,05000US36113,9.8
+New York,Washington County,05000US36115,11
+New York,Wayne County,05000US36117,10.3
+New York,Westchester County,05000US36119,8.2
+New York,Wyoming County,05000US36121,8.1
+New York,Yates County,05000US36123,9.5
+North Carolina,Alamance County,05000US37001,10.9
+North Carolina,Alexander County,05000US37003,11.6
+North Carolina,Alleghany County,05000US37005,12.8
+North Carolina,Anson County,05000US37007,14.9
+North Carolina,Ashe County,05000US37009,11.5
+North Carolina,Avery County,05000US37011,11.1
+North Carolina,Beaufort County,05000US37013,13.4
+North Carolina,Bertie County,05000US37015,14.2
+North Carolina,Bladen County,05000US37017,14.5
+North Carolina,Brunswick County,05000US37019,11
+North Carolina,Buncombe County,05000US37021,9.5
+North Carolina,Burke County,05000US37023,11.9
+North Carolina,Cabarrus County,05000US37025,9.9
+North Carolina,Caldwell County,05000US37027,14.2
+North Carolina,Camden County,05000US37029,11.1
+North Carolina,Carteret County,05000US37031,10.3
+North Carolina,Caswell County,05000US37033,13.2
+North Carolina,Catawba County,05000US37035,13.5
+North Carolina,Chatham County,05000US37037,12.1
+North Carolina,Cherokee County,05000US37039,13
+North Carolina,Chowan County,05000US37041,13.3
+North Carolina,Clay County,05000US37043,13.1
+North Carolina,Cleveland County,05000US37045,12.4
+North Carolina,Columbus County,05000US37047,16
+North Carolina,Craven County,05000US37049,10.3
+North Carolina,Cumberland County,05000US37051,12.1
+North Carolina,Currituck County,05000US37053,10.6
+North Carolina,Dare County,05000US37055,9.8
+North Carolina,Davidson County,05000US37057,11
+North Carolina,Davie County,05000US37059,10.9
+North Carolina,Duplin County,05000US37061,13.8
+North Carolina,Durham County,05000US37063,8.7
+North Carolina,Edgecombe County,05000US37065,16.4
+North Carolina,Forsyth County,05000US37067,11.2
+North Carolina,Franklin County,05000US37069,14
+North Carolina,Gaston County,05000US37071,13.7
+North Carolina,Gates County,05000US37073,12.9
+North Carolina,Graham County,05000US37075,12
+North Carolina,Granville County,05000US37077,12.1
+North Carolina,Greene County,05000US37079,12.7
+North Carolina,Guilford County,05000US37081,10.3
+North Carolina,Halifax County,05000US37083,13.7
+North Carolina,Harnett County,05000US37085,10.6
+North Carolina,Haywood County,05000US37087,12.3
+North Carolina,Henderson County,05000US37089,9.9
+North Carolina,Hertford County,05000US37091,14.4
+North Carolina,Hoke County,05000US37093,12.2
+North Carolina,Hyde County,05000US37095,12
+North Carolina,Iredell County,05000US37097,10.4
+North Carolina,Jackson County,05000US37099,11.6
+North Carolina,Johnston County,05000US37101,13.9
+North Carolina,Jones County,05000US37103,14.9
+North Carolina,Lee County,05000US37105,13.5
+North Carolina,Lenoir County,05000US37107,15.6
+North Carolina,Lincoln County,05000US37109,11.4
+North Carolina,McDowell County,05000US37111,14.2
+North Carolina,Macon County,05000US37113,11.7
+North Carolina,Madison County,05000US37115,10.5
+North Carolina,Martin County,05000US37117,15.9
+North Carolina,Mecklenburg County,05000US37119,8.5
+North Carolina,Mitchell County,05000US37121,12.8
+North Carolina,Montgomery County,05000US37123,12.5
+North Carolina,Moore County,05000US37125,10.6
+North Carolina,Nash County,05000US37127,13.2
+North Carolina,New Hanover County,05000US37129,8.4
+North Carolina,Northampton County,05000US37131,16.2
+North Carolina,Onslow County,05000US37133,7.8
+North Carolina,Orange County,05000US37135,8
+North Carolina,Pamlico County,05000US37137,15.1
+North Carolina,Pasquotank County,05000US37139,14.4
+North Carolina,Pender County,05000US37141,12.1
+North Carolina,Perquimans County,05000US37143,13.5
+North Carolina,Person County,05000US37145,12.6
+North Carolina,Pitt County,05000US37147,9.5
+North Carolina,Polk County,05000US37149,13.1
+North Carolina,Randolph County,05000US37151,13.7
+North Carolina,Richmond County,05000US37153,11.2
+North Carolina,Robeson County,05000US37155,15.7
+North Carolina,Rockingham County,05000US37157,14.1
+North Carolina,Rowan County,05000US37159,12.8
+North Carolina,Rutherford County,05000US37161,13.9
+North Carolina,Sampson County,05000US37163,13.7
+North Carolina,Scotland County,05000US37165,13.7
+North Carolina,Stanly County,05000US37167,12.1
+North Carolina,Stokes County,05000US37169,12.7
+North Carolina,Surry County,05000US37171,13.2
+North Carolina,Swain County,05000US37173,14.9
+North Carolina,Transylvania County,05000US37175,11.3
+North Carolina,Tyrrell County,05000US37177,13.6
+North Carolina,Union County,05000US37179,9.5
+North Carolina,Vance County,05000US37181,14
+North Carolina,Wake County,05000US37183,8.2
+North Carolina,Warren County,05000US37185,14.4
+North Carolina,Washington County,05000US37187,14.7
+North Carolina,Watauga County,05000US37189,8.6
+North Carolina,Wayne County,05000US37191,13.1
+North Carolina,Wilkes County,05000US37193,10.8
+North Carolina,Wilson County,05000US37195,12.4
+North Carolina,Yadkin County,05000US37197,10.5
+North Carolina,Yancey County,05000US37199,11.2
+North Dakota,Adams County,05000US38001,10.5
+North Dakota,Barnes County,05000US38003,10.5
+North Dakota,Benson County,05000US38005,11.7
+North Dakota,Billings County,05000US38007,7.8
+North Dakota,Bottineau County,05000US38009,9.8
+North Dakota,Bowman County,05000US38011,9.1
+North Dakota,Burke County,05000US38013,8.9
+North Dakota,Burleigh County,05000US38015,7.5
+North Dakota,Cass County,05000US38017,7
+North Dakota,Cavalier County,05000US38019,11.2
+North Dakota,Dickey County,05000US38021,11.2
+North Dakota,Divide County,05000US38023,10.1
+North Dakota,Dunn County,05000US38025,9.2
+North Dakota,Eddy County,05000US38027,11.8
+North Dakota,Emmons County,05000US38029,11.3
+North Dakota,Foster County,05000US38031,10.7
+North Dakota,Golden Valley County,05000US38033,8.8
+North Dakota,Grand Forks County,05000US38035,7.3
+North Dakota,Grant County,05000US38037,10.8
+North Dakota,Griggs County,05000US38039,10.2
+North Dakota,Hettinger County,05000US38041,9.5
+North Dakota,Kidder County,05000US38043,8.9
+North Dakota,LaMoure County,05000US38045,11.2
+North Dakota,Logan County,05000US38047,11.2
+North Dakota,McHenry County,05000US38049,8.3
+North Dakota,McIntosh County,05000US38051,10.6
+North Dakota,McKenzie County,05000US38053,9.5
+North Dakota,McLean County,05000US38055,10.4
+North Dakota,Mercer County,05000US38057,11.9
+North Dakota,Morton County,05000US38059,7.9
+North Dakota,Mountrail County,05000US38061,12.6
+North Dakota,Nelson County,05000US38063,12.2
+North Dakota,Oliver County,05000US38065,10.9
+North Dakota,Pembina County,05000US38067,12.1
+North Dakota,Pierce County,05000US38069,10.4
+North Dakota,Ramsey County,05000US38071,10.2
+North Dakota,Ransom County,05000US38073,10.4
+North Dakota,Renville County,05000US38075,10.8
+North Dakota,Richland County,05000US38077,8.4
+North Dakota,Rolette County,05000US38079,12.9
+North Dakota,Sargent County,05000US38081,9.4
+North Dakota,Sheridan County,05000US38083,11.5
+North Dakota,Sioux County,05000US38085,13.3
+North Dakota,Slope County,05000US38087,9.3
+North Dakota,Stark County,05000US38089,8
+North Dakota,Steele County,05000US38091,11.4
+North Dakota,Stutsman County,05000US38093,8.8
+North Dakota,Towner County,05000US38095,11.2
+North Dakota,Traill County,05000US38097,8.5
+North Dakota,Walsh County,05000US38099,9.5
+North Dakota,Ward County,05000US38101,7.8
+North Dakota,Wells County,05000US38103,10.9
+North Dakota,Williams County,05000US38105,8.3
+Ohio,Adams County,05000US39001,11.4
+Ohio,Allen County,05000US39003,13
+Ohio,Ashland County,05000US39005,11.6
+Ohio,Ashtabula County,05000US39007,13.3
+Ohio,Athens County,05000US39009,11.1
+Ohio,Auglaize County,05000US39011,11.1
+Ohio,Belmont County,05000US39013,15.1
+Ohio,Brown County,05000US39015,13.6
+Ohio,Butler County,05000US39017,12
+Ohio,Carroll County,05000US39019,12.7
+Ohio,Champaign County,05000US39021,13.2
+Ohio,Clark County,05000US39023,12.9
+Ohio,Clermont County,05000US39025,11.7
+Ohio,Clinton County,05000US39027,11.7
+Ohio,Columbiana County,05000US39029,12.5
+Ohio,Coshocton County,05000US39031,14.6
+Ohio,Crawford County,05000US39033,13.3
+Ohio,Cuyahoga County,05000US39035,12
+Ohio,Darke County,05000US39037,12.8
+Ohio,Defiance County,05000US39039,11.6
+Ohio,Delaware County,05000US39041,9.2
+Ohio,Erie County,05000US39043,11.1
+Ohio,Fairfield County,05000US39045,11.1
+Ohio,Fayette County,05000US39047,13
+Ohio,Franklin County,05000US39049,9.9
+Ohio,Fulton County,05000US39051,13.4
+Ohio,Gallia County,05000US39053,14.5
+Ohio,Geauga County,05000US39055,11.8
+Ohio,Greene County,05000US39057,10.5
+Ohio,Guernsey County,05000US39059,12.6
+Ohio,Hamilton County,05000US39061,11
+Ohio,Hancock County,05000US39063,11.5
+Ohio,Hardin County,05000US39065,9.6
+Ohio,Harrison County,05000US39067,13.2
+Ohio,Henry County,05000US39069,11.8
+Ohio,Highland County,05000US39071,11
+Ohio,Hocking County,05000US39073,14.6
+Ohio,Holmes County,05000US39075,10.3
+Ohio,Huron County,05000US39077,12.8
+Ohio,Jackson County,05000US39079,14.2
+Ohio,Jefferson County,05000US39081,15.4
+Ohio,Knox County,05000US39083,11
+Ohio,Lake County,05000US39085,11.2
+Ohio,Lawrence County,05000US39087,15.7
+Ohio,Licking County,05000US39089,11
+Ohio,Logan County,05000US39091,13.4
+Ohio,Lorain County,05000US39093,11.5
+Ohio,Lucas County,05000US39095,12.3
+Ohio,Madison County,05000US39097,10.7
+Ohio,Mahoning County,05000US39099,12.5
+Ohio,Marion County,05000US39101,12.9
+Ohio,Medina County,05000US39103,9.6
+Ohio,Meigs County,05000US39105,16.7
+Ohio,Mercer County,05000US39107,11
+Ohio,Miami County,05000US39109,12.8
+Ohio,Monroe County,05000US39111,14.9
+Ohio,Montgomery County,05000US39113,13
+Ohio,Morgan County,05000US39115,14.8
+Ohio,Morrow County,05000US39117,12.2
+Ohio,Muskingum County,05000US39119,12.9
+Ohio,Noble County,05000US39121,14
+Ohio,Ottawa County,05000US39123,11.1
+Ohio,Paulding County,05000US39125,12.4
+Ohio,Perry County,05000US39127,13.1
+Ohio,Pickaway County,05000US39129,12.4
+Ohio,Pike County,05000US39131,13.6
+Ohio,Portage County,05000US39133,9.1
+Ohio,Preble County,05000US39135,12.6
+Ohio,Putnam County,05000US39137,9.9
+Ohio,Richland County,05000US39139,11.9
+Ohio,Ross County,05000US39141,13.3
+Ohio,Sandusky County,05000US39143,12.9
+Ohio,Scioto County,05000US39145,16
+Ohio,Seneca County,05000US39147,13.5
+Ohio,Shelby County,05000US39149,11.3
+Ohio,Stark County,05000US39151,12.9
+Ohio,Summit County,05000US39153,10.4
+Ohio,Trumbull County,05000US39155,12.3
+Ohio,Tuscarawas County,05000US39157,12.7
+Ohio,Union County,05000US39159,10.2
+Ohio,Van Wert County,05000US39161,14.8
+Ohio,Vinton County,05000US39163,17
+Ohio,Warren County,05000US39165,9.7
+Ohio,Washington County,05000US39167,14.4
+Ohio,Wayne County,05000US39169,12.3
+Ohio,Williams County,05000US39171,12.8
+Ohio,Wood County,05000US39173,11
+Ohio,Wyandot County,05000US39175,12.5
+Oklahoma,Adair County,05000US40001,14.3
+Oklahoma,Alfalfa County,05000US40003,13.2
+Oklahoma,Atoka County,05000US40005,12.8
+Oklahoma,Beaver County,05000US40007,13.4
+Oklahoma,Beckham County,05000US40009,10
+Oklahoma,Blaine County,05000US40011,14.2
+Oklahoma,Bryan County,05000US40013,11.4
+Oklahoma,Caddo County,05000US40015,12.6
+Oklahoma,Canadian County,05000US40017,11.9
+Oklahoma,Carter County,05000US40019,12.5
+Oklahoma,Cherokee County,05000US40021,14.6
+Oklahoma,Choctaw County,05000US40023,15.5
+Oklahoma,Cimarron County,05000US40025,12.5
+Oklahoma,Cleveland County,05000US40027,10.4
+Oklahoma,Coal County,05000US40029,12.9
+Oklahoma,Comanche County,05000US40031,11.1
+Oklahoma,Cotton County,05000US40033,14.5
+Oklahoma,Craig County,05000US40035,13.1
+Oklahoma,Creek County,05000US40037,14.8
+Oklahoma,Custer County,05000US40039,11.7
+Oklahoma,Delaware County,05000US40041,14.2
+Oklahoma,Dewey County,05000US40043,13.9
+Oklahoma,Ellis County,05000US40045,13
+Oklahoma,Garfield County,05000US40047,9.8
+Oklahoma,Garvin County,05000US40049,13.2
+Oklahoma,Grady County,05000US40051,12
+Oklahoma,Grant County,05000US40053,13
+Oklahoma,Greer County,05000US40055,12.9
+Oklahoma,Harmon County,05000US40057,14
+Oklahoma,Harper County,05000US40059,12.4
+Oklahoma,Haskell County,05000US40061,18
+Oklahoma,Hughes County,05000US40063,15.6
+Oklahoma,Jackson County,05000US40065,12.8
+Oklahoma,Jefferson County,05000US40067,13.7
+Oklahoma,Johnston County,05000US40069,13.7
+Oklahoma,Kay County,05000US40071,12.7
+Oklahoma,Kingfisher County,05000US40073,12.2
+Oklahoma,Kiowa County,05000US40075,13.6
+Oklahoma,Latimer County,05000US40077,15
+Oklahoma,Le Flore County,05000US40079,14.2
+Oklahoma,Lincoln County,05000US40081,14.4
+Oklahoma,Logan County,05000US40083,12.1
+Oklahoma,Love County,05000US40085,15
+Oklahoma,McClain County,05000US40087,11.1
+Oklahoma,McCurtain County,05000US40089,14
+Oklahoma,McIntosh County,05000US40091,13.8
+Oklahoma,Major County,05000US40093,11.6
+Oklahoma,Marshall County,05000US40095,13.4
+Oklahoma,Mayes County,05000US40097,13.8
+Oklahoma,Murray County,05000US40099,13.4
+Oklahoma,Muskogee County,05000US40101,13.3
+Oklahoma,Noble County,05000US40103,13.2
+Oklahoma,Nowata County,05000US40105,15.1
+Oklahoma,Okfuskee County,05000US40107,13.4
+Oklahoma,Oklahoma County,05000US40109,10.2
+Oklahoma,Okmulgee County,05000US40111,12.5
+Oklahoma,Osage County,05000US40113,12.4
+Oklahoma,Ottawa County,05000US40115,15.6
+Oklahoma,Pawnee County,05000US40117,13.4
+Oklahoma,Payne County,05000US40119,7.1
+Oklahoma,Pittsburg County,05000US40121,13.1
+Oklahoma,Pontotoc County,05000US40123,11.9
+Oklahoma,Pottawatomie County,05000US40125,14.1
+Oklahoma,Pushmataha County,05000US40127,16.8
+Oklahoma,Roger Mills County,05000US40129,12.5
+Oklahoma,Rogers County,05000US40131,10.7
+Oklahoma,Seminole County,05000US40133,14.4
+Oklahoma,Sequoyah County,05000US40135,13.5
+Oklahoma,Stephens County,05000US40137,13.5
+Oklahoma,Texas County,05000US40139,9.6
+Oklahoma,Tillman County,05000US40141,14.3
+Oklahoma,Tulsa County,05000US40143,10.6
+Oklahoma,Wagoner County,05000US40145,11.4
+Oklahoma,Washington County,05000US40147,14
+Oklahoma,Washita County,05000US40149,12.6
+Oklahoma,Woods County,05000US40151,12.4
+Oklahoma,Woodward County,05000US40153,11.5
+Oregon,Baker County,05000US41001,12
+Oregon,Benton County,05000US41003,7.8
+Oregon,Clackamas County,05000US41005,9.8
+Oregon,Clatsop County,05000US41007,11
+Oregon,Columbia County,05000US41009,10.6
+Oregon,Coos County,05000US41011,12.8
+Oregon,Crook County,05000US41013,12.5
+Oregon,Curry County,05000US41015,11.9
+Oregon,Deschutes County,05000US41017,7.8
+Oregon,Douglas County,05000US41019,11.4
+Oregon,Gilliam County,05000US41021,11.6
+Oregon,Grant County,05000US41023,12.4
+Oregon,Harney County,05000US41025,11.2
+Oregon,Hood River County,05000US41027,8.5
+Oregon,Jackson County,05000US41029,8.9
+Oregon,Jefferson County,05000US41031,11.2
+Oregon,Josephine County,05000US41033,9.3
+Oregon,Klamath County,05000US41035,10.8
+Oregon,Lake County,05000US41037,11.5
+Oregon,Lane County,05000US41039,7.8
+Oregon,Lincoln County,05000US41041,13.3
+Oregon,Linn County,05000US41043,11.2
+Oregon,Malheur County,05000US41045,8.9
+Oregon,Marion County,05000US41047,10.3
+Oregon,Morrow County,05000US41049,11.4
+Oregon,Multnomah County,05000US41051,7.7
+Oregon,Polk County,05000US41053,9.3
+Oregon,Sherman County,05000US41055,11.1
+Oregon,Tillamook County,05000US41057,11.4
+Oregon,Umatilla County,05000US41059,9.9
+Oregon,Union County,05000US41061,9.2
+Oregon,Wallowa County,05000US41063,11.4
+Oregon,Wasco County,05000US41065,11
+Oregon,Washington County,05000US41067,8.4
+Oregon,Wheeler County,05000US41069,12.6
+Oregon,Yamhill County,05000US41071,9.6
+Pennsylvania,Adams County,05000US42001,11.6
+Pennsylvania,Allegheny County,05000US42003,9.7
+Pennsylvania,Armstrong County,05000US42005,11.7
+Pennsylvania,Beaver County,05000US42007,11.4
+Pennsylvania,Bedford County,05000US42009,13.2
+Pennsylvania,Berks County,05000US42011,11
+Pennsylvania,Blair County,05000US42013,11.7
+Pennsylvania,Bradford County,05000US42015,10.9
+Pennsylvania,Bucks County,05000US42017,9.6
+Pennsylvania,Butler County,05000US42019,10.9
+Pennsylvania,Cambria County,05000US42021,13.1
+Pennsylvania,Cameron County,05000US42023,10.4
+Pennsylvania,Carbon County,05000US42025,10.7
+Pennsylvania,Centre County,05000US42027,7.8
+Pennsylvania,Chester County,05000US42029,7.9
+Pennsylvania,Clarion County,05000US42031,11.7
+Pennsylvania,Clearfield County,05000US42033,13.7
+Pennsylvania,Clinton County,05000US42035,10.9
+Pennsylvania,Columbia County,05000US42037,11.9
+Pennsylvania,Crawford County,05000US42039,11.7
+Pennsylvania,Cumberland County,05000US42041,9.4
+Pennsylvania,Dauphin County,05000US42043,11.9
+Pennsylvania,Delaware County,05000US42045,9
+Pennsylvania,Elk County,05000US42047,10.5
+Pennsylvania,Erie County,05000US42049,11.6
+Pennsylvania,Fayette County,05000US42051,15.9
+Pennsylvania,Forest County,05000US42053,11.3
+Pennsylvania,Franklin County,05000US42055,11.4
+Pennsylvania,Fulton County,05000US42057,11.9
+Pennsylvania,Greene County,05000US42059,12.5
+Pennsylvania,Huntingdon County,05000US42061,11.5
+Pennsylvania,Indiana County,05000US42063,9.7
+Pennsylvania,Jefferson County,05000US42065,11.5
+Pennsylvania,Juniata County,05000US42067,12.3
+Pennsylvania,Lackawanna County,05000US42069,11.5
+Pennsylvania,Lancaster County,05000US42071,9.7
+Pennsylvania,Lawrence County,05000US42073,12.5
+Pennsylvania,Lebanon County,05000US42075,10.1
+Pennsylvania,Lehigh County,05000US42077,10.8
+Pennsylvania,Luzerne County,05000US42079,11.7
+Pennsylvania,Lycoming County,05000US42081,10.7
+Pennsylvania,McKean County,05000US42083,10.4
+Pennsylvania,Mercer County,05000US42085,12.2
+Pennsylvania,Mifflin County,05000US42087,12.5
+Pennsylvania,Monroe County,05000US42089,11.2
+Pennsylvania,Montgomery County,05000US42091,7.4
+Pennsylvania,Montour County,05000US42093,12.4
+Pennsylvania,Northampton County,05000US42095,11.2
+Pennsylvania,Northumberland County,05000US42097,12.1
+Pennsylvania,Perry County,05000US42099,10.3
+Pennsylvania,Philadelphia County,05000US42101,11.5
+Pennsylvania,Pike County,05000US42103,10.5
+Pennsylvania,Potter County,05000US42105,12.1
+Pennsylvania,Schuylkill County,05000US42107,11.4
+Pennsylvania,Snyder County,05000US42109,9.9
+Pennsylvania,Somerset County,05000US42111,12.5
+Pennsylvania,Sullivan County,05000US42113,13.1
+Pennsylvania,Susquehanna County,05000US42115,10.1
+Pennsylvania,Tioga County,05000US42117,12
+Pennsylvania,Union County,05000US42119,10.2
+Pennsylvania,Venango County,05000US42121,13.2
+Pennsylvania,Warren County,05000US42123,12.5
+Pennsylvania,Washington County,05000US42125,11.8
+Pennsylvania,Wayne County,05000US42127,12.6
+Pennsylvania,Westmoreland County,05000US42129,11.8
+Pennsylvania,Wyoming County,05000US42131,10.8
+Pennsylvania,York County,05000US42133,11.3
+Rhode Island,Bristol County,05000US44001,8.8
+Rhode Island,Kent County,05000US44003,9.9
+Rhode Island,Newport County,05000US44005,8.5
+Rhode Island,Providence County,05000US44007,9.9
+Rhode Island,Washington County,05000US44009,9.1
+South Carolina,Abbeville County,05000US45001,17
+South Carolina,Aiken County,05000US45003,12.8
+South Carolina,Allendale County,05000US45005,19.2
+South Carolina,Anderson County,05000US45007,13.2
+South Carolina,Bamberg County,05000US45009,17
+South Carolina,Barnwell County,05000US45011,17.3
+South Carolina,Beaufort County,05000US45013,9.8
+South Carolina,Berkeley County,05000US45015,13.5
+South Carolina,Calhoun County,05000US45017,18.6
+South Carolina,Charleston County,05000US45019,11.1
+South Carolina,Cherokee County,05000US45021,14.4
+South Carolina,Chester County,05000US45023,13.8
+South Carolina,Chesterfield County,05000US45025,14.8
+South Carolina,Clarendon County,05000US45027,17.2
+South Carolina,Colleton County,05000US45029,16.5
+South Carolina,Darlington County,05000US45031,14.6
+South Carolina,Dillon County,05000US45033,16.5
+South Carolina,Dorchester County,05000US45035,10.4
+South Carolina,Edgefield County,05000US45037,14.1
+South Carolina,Fairfield County,05000US45039,18.6
+South Carolina,Florence County,05000US45041,14.1
+South Carolina,Georgetown County,05000US45043,14.4
+South Carolina,Greenville County,05000US45045,10.4
+South Carolina,Greenwood County,05000US45047,13.2
+South Carolina,Hampton County,05000US45049,15.1
+South Carolina,Horry County,05000US45051,11.1
+South Carolina,Jasper County,05000US45053,15
+South Carolina,Kershaw County,05000US45055,12.6
+South Carolina,Lancaster County,05000US45057,11.8
+South Carolina,Laurens County,05000US45059,15
+South Carolina,Lee County,05000US45061,16.9
+South Carolina,Lexington County,05000US45063,9.9
+South Carolina,McCormick County,05000US45065,17.6
+South Carolina,Marion County,05000US45067,17.2
+South Carolina,Marlboro County,05000US45069,15.2
+South Carolina,Newberry County,05000US45071,15.7
+South Carolina,Oconee County,05000US45073,12
+South Carolina,Orangeburg County,05000US45075,15.1
+South Carolina,Pickens County,05000US45077,11.9
+South Carolina,Richland County,05000US45079,11.1
+South Carolina,Saluda County,05000US45081,13
+South Carolina,Spartanburg County,05000US45083,12.8
+South Carolina,Sumter County,05000US45085,14.3
+South Carolina,Union County,05000US45087,15.6
+South Carolina,Williamsburg County,05000US45089,17.5
+South Carolina,York County,05000US45091,12
+South Dakota,Aurora County,05000US46003,8.7
+South Dakota,Beadle County,05000US46005,9.4
+South Dakota,Bennett County,05000US46007,14.6
+South Dakota,Bon Homme County,05000US46009,9.4
+South Dakota,Brookings County,05000US46011,6.1
+South Dakota,Brown County,05000US46013,8.4
+South Dakota,Brule County,05000US46015,10.1
+South Dakota,Buffalo County,05000US46017,16.2
+South Dakota,Butte County,05000US46019,8.4
+South Dakota,Campbell County,05000US46021,9.9
+South Dakota,Charles Mix County,05000US46023,11.7
+South Dakota,Clark County,05000US46025,10.4
+South Dakota,Clay County,05000US46027,7.7
+South Dakota,Codington County,05000US46029,8.3
+South Dakota,Corson County,05000US46031,13.3
+South Dakota,Custer County,05000US46033,10.7
+South Dakota,Davison County,05000US46035,9.4
+South Dakota,Day County,05000US46037,11.2
+South Dakota,Deuel County,05000US46039,10.8
+South Dakota,Dewey County,05000US46041,15.6
+South Dakota,Douglas County,05000US46043,11
+South Dakota,Edmunds County,05000US46045,9
+South Dakota,Fall River County,05000US46047,11.2
+South Dakota,Faulk County,05000US46049,9.8
+South Dakota,Grant County,05000US46051,8.3
+South Dakota,Gregory County,05000US46053,10.4
+South Dakota,Haakon County,05000US46055,10.3
+South Dakota,Hamlin County,05000US46057,9.7
+South Dakota,Hand County,05000US46059,10.5
+South Dakota,Hanson County,05000US46061,8.3
+South Dakota,Harding County,05000US46063,8.1
+South Dakota,Hughes County,05000US46065,9.5
+South Dakota,Hutchinson County,05000US46067,10.5
+South Dakota,Hyde County,05000US46069,10.5
+South Dakota,Jackson County,05000US46071,11.2
+South Dakota,Jerauld County,05000US46073,9.9
+South Dakota,Jones County,05000US46075,10.9
+South Dakota,Kingsbury County,05000US46077,10
+South Dakota,Lake County,05000US46079,8.6
+South Dakota,Lawrence County,05000US46081,7.3
+South Dakota,Lincoln County,05000US46083,6.6
+South Dakota,Lyman County,05000US46085,10.4
+South Dakota,McCook County,05000US46087,9
+South Dakota,McPherson County,05000US46089,11.8
+South Dakota,Marshall County,05000US46091,9.6
+South Dakota,Meade County,05000US46093,8.4
+South Dakota,Mellette County,05000US46095,13.2
+South Dakota,Miner County,05000US46097,10.6
+South Dakota,Minnehaha County,05000US46099,7.9
+South Dakota,Moody County,05000US46101,11
+South Dakota,Pennington County,05000US46103,8.4
+South Dakota,Perkins County,05000US46105,10.1
+South Dakota,Potter County,05000US46107,11
+South Dakota,Roberts County,05000US46109,12
+South Dakota,Sanborn County,05000US46111,10.2
+South Dakota,Shannon County,05000US46113,15.8
+South Dakota,Spink County,05000US46115,9.9
+South Dakota,Stanley County,05000US46117,9.8
+South Dakota,Sully County,05000US46119,9.3
+South Dakota,Todd County,05000US46121,18.2
+South Dakota,Tripp County,05000US46123,10.7
+South Dakota,Turner County,05000US46125,8.4
+South Dakota,Union County,05000US46127,9.2
+South Dakota,Walworth County,05000US46129,10.7
+South Dakota,Yankton County,05000US46135,7.9
+South Dakota,Ziebach County,05000US46137,16.5
+Tennessee,Anderson County,05000US47001,12.3
+Tennessee,Bedford County,05000US47003,11.5
+Tennessee,Benton County,05000US47005,14.3
+Tennessee,Bledsoe County,05000US47007,12.5
+Tennessee,Blount County,05000US47009,13.7
+Tennessee,Bradley County,05000US47011,14.3
+Tennessee,Campbell County,05000US47013,13.4
+Tennessee,Cannon County,05000US47015,12.9
+Tennessee,Carroll County,05000US47017,14.6
+Tennessee,Carter County,05000US47019,14.2
+Tennessee,Cheatham County,05000US47021,12.3
+Tennessee,Chester County,05000US47023,14.7
+Tennessee,Claiborne County,05000US47025,14.8
+Tennessee,Clay County,05000US47027,13.9
+Tennessee,Cocke County,05000US47029,15.8
+Tennessee,Coffee County,05000US47031,13.1
+Tennessee,Crockett County,05000US47033,13.8
+Tennessee,Cumberland County,05000US47035,18.2
+Tennessee,Davidson County,05000US47037,10.6
+Tennessee,Decatur County,05000US47039,15
+Tennessee,DeKalb County,05000US47041,14.4
+Tennessee,Dickson County,05000US47043,12.6
+Tennessee,Dyer County,05000US47045,15.8
+Tennessee,Fayette County,05000US47047,17.6
+Tennessee,Fentress County,05000US47049,14.6
+Tennessee,Franklin County,05000US47051,13.1
+Tennessee,Gibson County,05000US47053,13.1
+Tennessee,Giles County,05000US47055,14.4
+Tennessee,Grainger County,05000US47057,14.4
+Tennessee,Greene County,05000US47059,12.3
+Tennessee,Grundy County,05000US47061,15.2
+Tennessee,Hamblen County,05000US47063,13.9
+Tennessee,Hamilton County,05000US47065,12.2
+Tennessee,Hancock County,05000US47067,13
+Tennessee,Hardeman County,05000US47069,14.7
+Tennessee,Hardin County,05000US47071,13.8
+Tennessee,Hawkins County,05000US47073,14.4
+Tennessee,Haywood County,05000US47075,15.3
+Tennessee,Henderson County,05000US47077,15.9
+Tennessee,Henry County,05000US47079,14
+Tennessee,Hickman County,05000US47081,12.2
+Tennessee,Houston County,05000US47083,15.2
+Tennessee,Humphreys County,05000US47085,14.1
+Tennessee,Jackson County,05000US47087,13.8
+Tennessee,Jefferson County,05000US47089,12.3
+Tennessee,Johnson County,05000US47091,14.1
+Tennessee,Knox County,05000US47093,11.2
+Tennessee,Lake County,05000US47095,13.5
+Tennessee,Lauderdale County,05000US47097,15.4
+Tennessee,Lawrence County,05000US47099,14.2
+Tennessee,Lewis County,05000US47101,14.5
+Tennessee,Lincoln County,05000US47103,14.2
+Tennessee,Loudon County,05000US47105,13.3
+Tennessee,McMinn County,05000US47107,14.1
+Tennessee,McNairy County,05000US47109,16.9
+Tennessee,Macon County,05000US47111,14.2
+Tennessee,Madison County,05000US47113,14.2
+Tennessee,Marion County,05000US47115,15.9
+Tennessee,Marshall County,05000US47117,14.4
+Tennessee,Maury County,05000US47119,11.9
+Tennessee,Meigs County,05000US47121,14.2
+Tennessee,Monroe County,05000US47123,14.7
+Tennessee,Montgomery County,05000US47125,9.8
+Tennessee,Moore County,05000US47127,14
+Tennessee,Morgan County,05000US47129,12.3
+Tennessee,Obion County,05000US47131,15.5
+Tennessee,Overton County,05000US47133,15.1
+Tennessee,Perry County,05000US47135,16.3
+Tennessee,Pickett County,05000US47137,15
+Tennessee,Polk County,05000US47139,13.7
+Tennessee,Putnam County,05000US47141,12.5
+Tennessee,Rhea County,05000US47143,13.7
+Tennessee,Roane County,05000US47145,13.4
+Tennessee,Robertson County,05000US47147,12.8
+Tennessee,Rutherford County,05000US47149,9.9
+Tennessee,Scott County,05000US47151,13.4
+Tennessee,Sequatchie County,05000US47153,13.5
+Tennessee,Sevier County,05000US47155,12.2
+Tennessee,Shelby County,05000US47157,12.2
+Tennessee,Smith County,05000US47159,13.6
+Tennessee,Stewart County,05000US47161,15.2
+Tennessee,Sullivan County,05000US47163,14.4
+Tennessee,Sumner County,05000US47165,11.8
+Tennessee,Tipton County,05000US47167,13.5
+Tennessee,Trousdale County,05000US47169,13.2
+Tennessee,Unicoi County,05000US47171,14.7
+Tennessee,Union County,05000US47173,13.8
+Tennessee,Van Buren County,05000US47175,14.6
+Tennessee,Warren County,05000US47177,16.3
+Tennessee,Washington County,05000US47179,12.9
+Tennessee,Wayne County,05000US47181,12.3
+Tennessee,Weakley County,05000US47183,14.7
+Tennessee,White County,05000US47185,13.6
+Tennessee,Williamson County,05000US47187,9.2
+Tennessee,Wilson County,05000US47189,12.7
+Texas,Anderson County,05000US48001,11.7
+Texas,Andrews County,05000US48003,8.8
+Texas,Angelina County,05000US48005,12.9
+Texas,Aransas County,05000US48007,12.1
+Texas,Archer County,05000US48009,10.6
+Texas,Armstrong County,05000US48011,10.6
+Texas,Atascosa County,05000US48013,10.8
+Texas,Austin County,05000US48015,9.7
+Texas,Bailey County,05000US48017,9.5
+Texas,Bandera County,05000US48019,11.3
+Texas,Bastrop County,05000US48021,9.7
+Texas,Baylor County,05000US48023,12.2
+Texas,Bee County,05000US48025,8.7
+Texas,Bell County,05000US48027,9.2
+Texas,Bexar County,05000US48029,8.9
+Texas,Blanco County,05000US48031,11.2
+Texas,Borden County,05000US48033,11.3
+Texas,Bosque County,05000US48035,10.2
+Texas,Bowie County,05000US48037,12.7
+Texas,Brazoria County,05000US48039,9.1
+Texas,Brazos County,05000US48041,7.6
+Texas,Brewster County,05000US48043,9.7
+Texas,Briscoe County,05000US48045,11.2
+Texas,Brooks County,05000US48047,10.8
+Texas,Brown County,05000US48049,9.5
+Texas,Burleson County,05000US48051,12.2
+Texas,Burnet County,05000US48053,10
+Texas,Caldwell County,05000US48055,9.8
+Texas,Calhoun County,05000US48057,11.6
+Texas,Callahan County,05000US48059,11
+Texas,Cameron County,05000US48061,9.3
+Texas,Camp County,05000US48063,11.2
+Texas,Carson County,05000US48065,11
+Texas,Cass County,05000US48067,13.7
+Texas,Castro County,05000US48069,9.3
+Texas,Chambers County,05000US48071,9.6
+Texas,Cherokee County,05000US48073,11.6
+Texas,Childress County,05000US48075,9
+Texas,Clay County,05000US48077,11.2
+Texas,Cochran County,05000US48079,10.9
+Texas,Coke County,05000US48081,12.6
+Texas,Coleman County,05000US48083,11.6
+Texas,Collin County,05000US48085,7.9
+Texas,Collingsworth County,05000US48087,10.7
+Texas,Colorado County,05000US48089,11.3
+Texas,Comal County,05000US48091,8.8
+Texas,Comanche County,05000US48093,10.8
+Texas,Concho County,05000US48095,8.7
+Texas,Cooke County,05000US48097,10.3
+Texas,Coryell County,05000US48099,9.1
+Texas,Cottle County,05000US48101,12.3
+Texas,Crane County,05000US48103,8.8
+Texas,Crockett County,05000US48105,9.9
+Texas,Crosby County,05000US48107,9.8
+Texas,Culberson County,05000US48109,10
+Texas,Dallam County,05000US48111,8
+Texas,Dallas County,05000US48113,9.1
+Texas,Dawson County,05000US48115,9.1
+Texas,Deaf Smith County,05000US48117,8.7
+Texas,Delta County,05000US48119,11.9
+Texas,Denton County,05000US48121,8
+Texas,DeWitt County,05000US48123,11.6
+Texas,Dickens County,05000US48125,9.9
+Texas,Dimmit County,05000US48127,9.3
+Texas,Donley County,05000US48129,11.1
+Texas,Duval County,05000US48131,9.9
+Texas,Eastland County,05000US48133,12.2
+Texas,Ector County,05000US48135,8.9
+Texas,Edwards County,05000US48137,11.8
+Texas,Ellis County,05000US48139,9.9
+Texas,El Paso County,05000US48141,9.5
+Texas,Erath County,05000US48143,8.9
+Texas,Falls County,05000US48145,11.5
+Texas,Fannin County,05000US48147,10.4
+Texas,Fayette County,05000US48149,11.6
+Texas,Fisher County,05000US48151,11.7
+Texas,Floyd County,05000US48153,11.4
+Texas,Foard County,05000US48155,11.7
+Texas,Fort Bend County,05000US48157,8.4
+Texas,Franklin County,05000US48159,11.3
+Texas,Freestone County,05000US48161,11
+Texas,Frio County,05000US48163,8.6
+Texas,Gaines County,05000US48165,8.9
+Texas,Galveston County,05000US48167,9.8
+Texas,Garza County,05000US48169,8.3
+Texas,Gillespie County,05000US48171,13.3
+Texas,Glasscock County,05000US48173,9.6
+Texas,Goliad County,05000US48175,11.9
+Texas,Gonzales County,05000US48177,12
+Texas,Gray County,05000US48179,10.9
+Texas,Grayson County,05000US48181,9.3
+Texas,Gregg County,05000US48183,11
+Texas,Grimes County,05000US48185,11.9
+Texas,Guadalupe County,05000US48187,10
+Texas,Hale County,05000US48189,10.3
+Texas,Hall County,05000US48191,12.4
+Texas,Hamilton County,05000US48193,11.8
+Texas,Hansford County,05000US48195,9.7
+Texas,Hardeman County,05000US48197,10.9
+Texas,Hardin County,05000US48199,9.9
+Texas,Harris County,05000US48201,8.5
+Texas,Harrison County,05000US48203,11.9
+Texas,Hartley County,05000US48205,9.6
+Texas,Haskell County,05000US48207,10.5
+Texas,Hays County,05000US48209,8.7
+Texas,Hemphill County,05000US48211,9.4
+Texas,Henderson County,05000US48213,10.9
+Texas,Hidalgo County,05000US48215,9.7
+Texas,Hill County,05000US48217,10.1
+Texas,Hockley County,05000US48219,8.7
+Texas,Hood County,05000US48221,11.7
+Texas,Hopkins County,05000US48223,10.5
+Texas,Houston County,05000US48225,11.3
+Texas,Howard County,05000US48227,9.7
+Texas,Hudspeth County,05000US48229,10
+Texas,Hunt County,05000US48231,10.3
+Texas,Hutchinson County,05000US48233,10.5
+Texas,Irion County,05000US48235,10.6
+Texas,Jack County,05000US48237,9.7
+Texas,Jackson County,05000US48239,10.9
+Texas,Jasper County,05000US48241,13.2
+Texas,Jeff Davis County,05000US48243,12.4
+Texas,Jefferson County,05000US48245,10.8
+Texas,Jim Hogg County,05000US48247,9.9
+Texas,Jim Wells County,05000US48249,9.2
+Texas,Johnson County,05000US48251,9.4
+Texas,Jones County,05000US48253,9
+Texas,Karnes County,05000US48255,9.5
+Texas,Kaufman County,05000US48257,9.2
+Texas,Kendall County,05000US48259,8.9
+Texas,Kenedy County,05000US48261,9.2
+Texas,Kent County,05000US48263,12
+Texas,Kerr County,05000US48265,13.4
+Texas,Kimble County,05000US48267,11.6
+Texas,King County,05000US48269,10.5
+Texas,Kinney County,05000US48271,10.8
+Texas,Kleberg County,05000US48273,9.2
+Texas,Knox County,05000US48275,11.2
+Texas,Lamar County,05000US48277,11.6
+Texas,Lamb County,05000US48279,10.2
+Texas,Lampasas County,05000US48281,10.2
+Texas,La Salle County,05000US48283,8.2
+Texas,Lavaca County,05000US48285,11.7
+Texas,Lee County,05000US48287,10.8
+Texas,Leon County,05000US48289,13.8
+Texas,Liberty County,05000US48291,11
+Texas,Limestone County,05000US48293,11.8
+Texas,Lipscomb County,05000US48295,9.5
+Texas,Live Oak County,05000US48297,10.8
+Texas,Llano County,05000US48299,13.3
+Texas,Loving County,05000US48301,10.5
+Texas,Lubbock County,05000US48303,8.6
+Texas,Lynn County,05000US48305,10.4
+Texas,McCulloch County,05000US48307,11
+Texas,McLennan County,05000US48309,9
+Texas,McMullen County,05000US48311,11.8
+Texas,Madison County,05000US48313,9.1
+Texas,Marion County,05000US48315,12.5
+Texas,Martin County,05000US48317,8.8
+Texas,Mason County,05000US48319,12.5
+Texas,Matagorda County,05000US48321,11.2
+Texas,Maverick County,05000US48323,8.7
+Texas,Medina County,05000US48325,11.2
+Texas,Menard County,05000US48327,12.9
+Texas,Midland County,05000US48329,8.6
+Texas,Milam County,05000US48331,11.9
+Texas,Mills County,05000US48333,11.7
+Texas,Mitchell County,05000US48335,8.9
+Texas,Montague County,05000US48337,10.7
+Texas,Montgomery County,05000US48339,10.1
+Texas,Moore County,05000US48341,9
+Texas,Morris County,05000US48343,11.1
+Texas,Motley County,05000US48345,13
+Texas,Nacogdoches County,05000US48347,11.3
+Texas,Navarro County,05000US48349,10.1
+Texas,Newton County,05000US48351,11.7
+Texas,Nolan County,05000US48353,10.4
+Texas,Nueces County,05000US48355,9.9
+Texas,Ochiltree County,05000US48357,8.2
+Texas,Oldham County,05000US48359,9.3
+Texas,Orange County,05000US48361,8.9
+Texas,Palo Pinto County,05000US48363,12
+Texas,Panola County,05000US48365,10.9
+Texas,Parker County,05000US48367,10.5
+Texas,Parmer County,05000US48369,9.4
+Texas,Pecos County,05000US48371,9.8
+Texas,Polk County,05000US48373,10.8
+Texas,Potter County,05000US48375,8.9
+Texas,Presidio County,05000US48377,10.3
+Texas,Rains County,05000US48379,11.8
+Texas,Randall County,05000US48381,8.2
+Texas,Reagan County,05000US48383,8.9
+Texas,Real County,05000US48385,12.1
+Texas,Red River County,05000US48387,11.9
+Texas,Reeves County,05000US48389,8.1
+Texas,Refugio County,05000US48391,10.9
+Texas,Roberts County,05000US48393,10.3
+Texas,Robertson County,05000US48395,10.9
+Texas,Rockwall County,05000US48397,8.9
+Texas,Runnels County,05000US48399,11.5
+Texas,Rusk County,05000US48401,10.8
+Texas,Sabine County,05000US48403,13.2
+Texas,San Augustine County,05000US48405,13.7
+Texas,San Jacinto County,05000US48407,12.6
+Texas,San Patricio County,05000US48409,10.5
+Texas,San Saba County,05000US48411,11.4
+Texas,Schleicher County,05000US48413,9.8
+Texas,Scurry County,05000US48415,9.1
+Texas,Shackelford County,05000US48417,10.4
+Texas,Shelby County,05000US48419,11.7
+Texas,Sherman County,05000US48421,10
+Texas,Smith County,05000US48423,10.2
+Texas,Somervell County,05000US48425,10.7
+Texas,Starr County,05000US48427,8.4
+Texas,Stephens County,05000US48429,10
+Texas,Sterling County,05000US48431,10.1
+Texas,Stonewall County,05000US48433,12
+Texas,Sutton County,05000US48435,9.8
+Texas,Swisher County,05000US48437,9.9
+Texas,Tarrant County,05000US48439,11
+Texas,Taylor County,05000US48441,9.2
+Texas,Terrell County,05000US48443,10.6
+Texas,Terry County,05000US48445,9.8
+Texas,Throckmorton County,05000US48447,11.3
+Texas,Titus County,05000US48449,9.5
+Texas,Tom Green County,05000US48451,10.1
+Texas,Travis County,05000US48453,6.4
+Texas,Trinity County,05000US48455,11.5
+Texas,Tyler County,05000US48457,12.3
+Texas,Upshur County,05000US48459,10.7
+Texas,Upton County,05000US48461,9.6
+Texas,Uvalde County,05000US48463,10.5
+Texas,Val Verde County,05000US48465,8.7
+Texas,Van Zandt County,05000US48467,10.8
+Texas,Victoria County,05000US48469,10.3
+Texas,Walker County,05000US48471,9
+Texas,Waller County,05000US48473,12
+Texas,Ward County,05000US48475,9.7
+Texas,Washington County,05000US48477,11.8
+Texas,Webb County,05000US48479,8.6
+Texas,Wharton County,05000US48481,10.2
+Texas,Wheeler County,05000US48483,10.8
+Texas,Wichita County,05000US48485,12.3
+Texas,Wilbarger County,05000US48487,11
+Texas,Willacy County,05000US48489,8.3
+Texas,Williamson County,05000US48491,7.4
+Texas,Wilson County,05000US48493,9.7
+Texas,Winkler County,05000US48495,8.7
+Texas,Wise County,05000US48497,10.4
+Texas,Wood County,05000US48499,11.7
+Texas,Yoakum County,05000US48501,8.6
+Texas,Young County,05000US48503,10.9
+Texas,Zapata County,05000US48505,8.3
+Texas,Zavala County,05000US48507,8.7
+Utah,Beaver County,05000US49001,7.9
+Utah,Box Elder County,05000US49003,9.9
+Utah,Cache County,05000US49005,5.6
+Utah,Carbon County,05000US49007,9.6
+Utah,Daggett County,05000US49009,10.1
+Utah,Davis County,05000US49011,7.4
+Utah,Duchesne County,05000US49013,8
+Utah,Emery County,05000US49015,8.7
+Utah,Garfield County,05000US49017,9.7
+Utah,Grand County,05000US49019,7.8
+Utah,Iron County,05000US49021,6.8
+Utah,Juab County,05000US49023,10.2
+Utah,Kane County,05000US49025,9.8
+Utah,Millard County,05000US49027,9.3
+Utah,Morgan County,05000US49029,8.3
+Utah,Piute County,05000US49031,10.1
+Utah,Rich County,05000US49033,8.7
+Utah,Salt Lake County,05000US49035,7.2
+Utah,San Juan County,05000US49037,10.6
+Utah,Sanpete County,05000US49039,7.9
+Utah,Sevier County,05000US49041,9.5
+Utah,Summit County,05000US49043,4.2
+Utah,Tooele County,05000US49045,9.2
+Utah,Uintah County,05000US49047,8
+Utah,Utah County,05000US49049,5.5
+Utah,Wasatch County,05000US49051,6.5
+Utah,Washington County,05000US49053,7.8
+Utah,Wayne County,05000US49055,8.5
+Utah,Weber County,05000US49057,8.3
+Vermont,Addison County,05000US50001,6.7
+Vermont,Bennington County,05000US50003,8.8
+Vermont,Caledonia County,05000US50005,8.2
+Vermont,Chittenden County,05000US50007,6.5
+Vermont,Essex County,05000US50009,10.2
+Vermont,Franklin County,05000US50011,8.1
+Vermont,Grand Isle County,05000US50013,7.4
+Vermont,Lamoille County,05000US50015,7
+Vermont,Orange County,05000US50017,7.7
+Vermont,Orleans County,05000US50019,9.3
+Vermont,Rutland County,05000US50021,9.4
+Vermont,Washington County,05000US50023,8.3
+Vermont,Windham County,05000US50025,7.5
+Vermont,Windsor County,05000US50027,8.1
+Virginia,Accomack County,05000US51001,13.6
+Virginia,Albemarle County,05000US51003,7.6
+Virginia,Alleghany County,05000US51005,11
+Virginia,Amelia County,05000US51007,11.8
+Virginia,Amherst County,05000US51009,12.7
+Virginia,Appomattox County,05000US51011,11.6
+Virginia,Arlington County,05000US51013,4.2
+Virginia,Augusta County,05000US51015,11.6
+Virginia,Bath County,05000US51017,10.9
+Virginia,Bedford County,05000US51019,11.1
+Virginia,Bland County,05000US51021,10
+Virginia,Botetourt County,05000US51023,11.1
+Virginia,Brunswick County,05000US51025,12
+Virginia,Buchanan County,05000US51027,14.6
+Virginia,Buckingham County,05000US51029,14.3
+Virginia,Campbell County,05000US51031,11
+Virginia,Caroline County,05000US51033,10.5
+Virginia,Carroll County,05000US51035,12.3
+Virginia,Charles City County,05000US51036,14.2
+Virginia,Charlotte County,05000US51037,12
+Virginia,Chesterfield County,05000US51041,9.1
+Virginia,Clarke County,05000US51043,10.7
+Virginia,Craig County,05000US51045,10.7
+Virginia,Culpeper County,05000US51047,10.6
+Virginia,Cumberland County,05000US51049,13.8
+Virginia,Dickenson County,05000US51051,10.4
+Virginia,Dinwiddie County,05000US51053,11.4
+Virginia,Essex County,05000US51057,14.1
+Virginia,Fairfax County,05000US51059,6.2
+Virginia,Fauquier County,05000US51061,10.3
+Virginia,Floyd County,05000US51063,9.5
+Virginia,Fluvanna County,05000US51065,11.1
+Virginia,Franklin County,05000US51067,11.1
+Virginia,Frederick County,05000US51069,9.3
+Virginia,Giles County,05000US51071,10.6
+Virginia,Gloucester County,05000US51073,11.1
+Virginia,Goochland County,05000US51075,11.5
+Virginia,Grayson County,05000US51077,11
+Virginia,Greene County,05000US51079,9.9
+Virginia,Greensville County,05000US51081,14.1
+Virginia,Halifax County,05000US51083,15.9
+Virginia,Hanover County,05000US51085,9.4
+Virginia,Henrico County,05000US51087,9.7
+Virginia,Henry County,05000US51089,15.1
+Virginia,Highland County,05000US51091,12.4
+Virginia,Isle of Wight County,05000US51093,12.6
+Virginia,James City County,05000US51095,10.5
+Virginia,King and Queen County,05000US51097,12.2
+Virginia,King George County,05000US51099,9.3
+Virginia,King William County,05000US51101,10.3
+Virginia,Lancaster County,05000US51103,13.8
+Virginia,Lee County,05000US51105,12.1
+Virginia,Loudoun County,05000US51107,6.9
+Virginia,Louisa County,05000US51109,10.9
+Virginia,Lunenburg County,05000US51111,13.2
+Virginia,Madison County,05000US51113,11.4
+Virginia,Mathews County,05000US51115,11.9
+Virginia,Mecklenburg County,05000US51117,13.7
+Virginia,Middlesex County,05000US51119,12.4
+Virginia,Montgomery County,05000US51121,6.8
+Virginia,Nelson County,05000US51125,12.9
+Virginia,New Kent County,05000US51127,9.9
+Virginia,Northampton County,05000US51131,14.6
+Virginia,Northumberland County,05000US51133,14.8
+Virginia,Nottoway County,05000US51135,14
+Virginia,Orange County,05000US51137,10.1
+Virginia,Page County,05000US51139,10.9
+Virginia,Patrick County,05000US51141,12.5
+Virginia,Pittsylvania County,05000US51143,14.3
+Virginia,Powhatan County,05000US51145,10.7
+Virginia,Prince Edward County,05000US51147,11.4
+Virginia,Prince George County,05000US51149,12.3
+Virginia,Prince William County,05000US51153,7.9
+Virginia,Pulaski County,05000US51155,13.7
+Virginia,Rappahannock County,05000US51157,11.7
+Virginia,Richmond County,05000US51159,11.6
+Virginia,Roanoke County,05000US51161,11.5
+Virginia,Rockbridge County,05000US51163,11.4
+Virginia,Rockingham County,05000US51165,9.9
+Virginia,Russell County,05000US51167,11.5
+Virginia,Scott County,05000US51169,14.1
+Virginia,Shenandoah County,05000US51171,10.5
+Virginia,Smyth County,05000US51173,9.7
+Virginia,Southampton County,05000US51175,12.6
+Virginia,Spotsylvania County,05000US51177,12.6
+Virginia,Stafford County,05000US51179,8.3
+Virginia,Surry County,05000US51181,14
+Virginia,Sussex County,05000US51183,13.5
+Virginia,Tazewell County,05000US51185,15.3
+Virginia,Warren County,05000US51187,10.6
+Virginia,Washington County,05000US51191,13.1
+Virginia,Westmoreland County,05000US51193,13.5
+Virginia,Wise County,05000US51195,12.1
+Virginia,Wythe County,05000US51197,12.1
+Virginia,York County,05000US51199,9.5
+Virginia,Alexandria city,05000US51510,6.2
+Virginia,Bedford city,05000US51515,No Data
+Virginia,Bristol city,05000US51520,10.5
+Virginia,Buena Vista city,05000US51530,9.7
+Virginia,Charlottesville city,05000US51540,8.3
+Virginia,Chesapeake city,05000US51550,10.2
+Virginia,Colonial Heights city,05000US51570,11.6
+Virginia,Covington city,05000US51580,10.7
+Virginia,Danville city,05000US51590,15.3
+Virginia,Emporia city,05000US51595,13.4
+Virginia,Fairfax city,05000US51600,7.5
+Virginia,Falls Church city,05000US51610,10.2
+Virginia,Franklin city,05000US51620,14.9
+Virginia,Fredericksburg city,05000US51630,8.9
+Virginia,Galax city,05000US51640,10.8
+Virginia,Hampton city,05000US51650,12.4
+Virginia,Harrisonburg city,05000US51660,6.7
+Virginia,Hopewell city,05000US51670,13.6
+Virginia,Lexington city,05000US51678,8.1
+Virginia,Lynchburg city,05000US51680,11.3
+Virginia,Manassas city,05000US51683,8.2
+Virginia,Manassas Park city,05000US51685,7.9
+Virginia,Martinsville city,05000US51690,12.8
+Virginia,Newport News city,05000US51700,12.7
+Virginia,Norfolk city,05000US51710,9.2
+Virginia,Norton city,05000US51720,9.6
+Virginia,Petersburg city,05000US51730,15.6
+Virginia,Poquoson city,05000US51735,11.5
+Virginia,Portsmouth city,05000US51740,14
+Virginia,Radford city,05000US51750,6.9
+Virginia,Richmond city,05000US51760,10.3
+Virginia,Roanoke city,05000US51770,11.9
+Virginia,Salem city,05000US51775,9.3
+Virginia,Staunton city,05000US51790,10.2
+Virginia,Suffolk city,05000US51800,10.9
+Virginia,Virginia Beach city,05000US51810,8
+Virginia,Waynesboro city,05000US51820,9.5
+Virginia,Williamsburg city,05000US51830,8.9
+Virginia,Winchester city,05000US51840,8.9
+Washington,Adams County,05000US53001,11
+Washington,Asotin County,05000US53003,12.9
+Washington,Benton County,05000US53005,9.5
+Washington,Chelan County,05000US53007,9.4
+Washington,Clallam County,05000US53009,11.4
+Washington,Clark County,05000US53011,9.6
+Washington,Columbia County,05000US53013,11.9
+Washington,Cowlitz County,05000US53015,11.8
+Washington,Douglas County,05000US53017,8.6
+Washington,Ferry County,05000US53019,10.7
+Washington,Franklin County,05000US53021,7.1
+Washington,Garfield County,05000US53023,14.4
+Washington,Grant County,05000US53025,9
+Washington,Grays Harbor County,05000US53027,11.6
+Washington,Island County,05000US53029,9.4
+Washington,Jefferson County,05000US53031,11.2
+Washington,King County,05000US53033,6.8
+Washington,Kitsap County,05000US53035,8.7
+Washington,Kittitas County,05000US53037,7.9
+Washington,Klickitat County,05000US53039,10.3
+Washington,Lewis County,05000US53041,9.5
+Washington,Lincoln County,05000US53043,10.4
+Washington,Mason County,05000US53045,11.1
+Washington,Okanogan County,05000US53047,10.5
+Washington,Pacific County,05000US53049,12.6
+Washington,Pend Oreille County,05000US53051,13.9
+Washington,Pierce County,05000US53053,9.4
+Washington,San Juan County,05000US53055,10.2
+Washington,Skagit County,05000US53057,9.1
+Washington,Skamania County,05000US53059,9.1
+Washington,Snohomish County,05000US53061,9.9
+Washington,Spokane County,05000US53063,9.3
+Washington,Stevens County,05000US53065,10.6
+Washington,Thurston County,05000US53067,8.8
+Washington,Wahkiakum County,05000US53069,12.8
+Washington,Walla Walla County,05000US53071,10.4
+Washington,Whatcom County,05000US53073,7.9
+Washington,Whitman County,05000US53075,6.6
+Washington,Yakima County,05000US53077,10.2
+West Virginia,Barbour County,05000US54001,15.3
+West Virginia,Berkeley County,05000US54003,10.5
+West Virginia,Boone County,05000US54005,15
+West Virginia,Braxton County,05000US54007,15.9
+West Virginia,Brooke County,05000US54009,16.1
+West Virginia,Cabell County,05000US54011,13.5
+West Virginia,Calhoun County,05000US54013,14
+West Virginia,Clay County,05000US54015,14.6
+West Virginia,Doddridge County,05000US54017,13
+West Virginia,Fayette County,05000US54019,14
+West Virginia,Gilmer County,05000US54021,11.8
+West Virginia,Grant County,05000US54023,15.7
+West Virginia,Greenbrier County,05000US54025,13.6
+West Virginia,Hampshire County,05000US54027,13.4
+West Virginia,Hancock County,05000US54029,12
+West Virginia,Hardy County,05000US54031,15.4
+West Virginia,Harrison County,05000US54033,14.3
+West Virginia,Jackson County,05000US54035,13.2
+West Virginia,Jefferson County,05000US54037,10.1
+West Virginia,Kanawha County,05000US54039,14.1
+West Virginia,Lewis County,05000US54041,14.2
+West Virginia,Lincoln County,05000US54043,15.7
+West Virginia,Logan County,05000US54045,17.5
+West Virginia,McDowell County,05000US54047,17.6
+West Virginia,Marion County,05000US54049,10.9
+West Virginia,Marshall County,05000US54051,14
+West Virginia,Mason County,05000US54053,13.2
+West Virginia,Mercer County,05000US54055,15.5
+West Virginia,Mineral County,05000US54057,14.1
+West Virginia,Mingo County,05000US54059,13.2
+West Virginia,Monongalia County,05000US54061,9.1
+West Virginia,Monroe County,05000US54063,13.7
+West Virginia,Morgan County,05000US54065,14.3
+West Virginia,Nicholas County,05000US54067,15.7
+West Virginia,Ohio County,05000US54069,12.2
+West Virginia,Pendleton County,05000US54071,14.3
+West Virginia,Pleasants County,05000US54073,13.7
+West Virginia,Pocahontas County,05000US54075,13.8
+West Virginia,Preston County,05000US54077,10.6
+West Virginia,Putnam County,05000US54079,11.7
+West Virginia,Raleigh County,05000US54081,15.2
+West Virginia,Randolph County,05000US54083,12.7
+West Virginia,Ritchie County,05000US54085,15.2
+West Virginia,Roane County,05000US54087,16.1
+West Virginia,Summers County,05000US54089,15.3
+West Virginia,Taylor County,05000US54091,11.8
+West Virginia,Tucker County,05000US54093,13.8
+West Virginia,Tyler County,05000US54095,13.7
+West Virginia,Upshur County,05000US54097,12.7
+West Virginia,Wayne County,05000US54099,16.5
+West Virginia,Webster County,05000US54101,16.7
+West Virginia,Wetzel County,05000US54103,13
+West Virginia,Wirt County,05000US54105,14.8
+West Virginia,Wood County,05000US54107,14
+West Virginia,Wyoming County,05000US54109,14.9
+Wisconsin,Adams County,05000US55001,12.8
+Wisconsin,Ashland County,05000US55003,11
+Wisconsin,Barron County,05000US55005,9
+Wisconsin,Bayfield County,05000US55007,9.5
+Wisconsin,Brown County,05000US55009,9.3
+Wisconsin,Buffalo County,05000US55011,10.2
+Wisconsin,Burnett County,05000US55013,10.6
+Wisconsin,Calumet County,05000US55015,8.1
+Wisconsin,Chippewa County,05000US55017,8.2
+Wisconsin,Clark County,05000US55019,8.8
+Wisconsin,Columbia County,05000US55021,8
+Wisconsin,Crawford County,05000US55023,9.5
+Wisconsin,Dane County,05000US55025,6.3
+Wisconsin,Dodge County,05000US55027,9.8
+Wisconsin,Door County,05000US55029,10
+Wisconsin,Douglas County,05000US55031,9.8
+Wisconsin,Dunn County,05000US55033,9.4
+Wisconsin,Eau Claire County,05000US55035,8
+Wisconsin,Florence County,05000US55037,11.8
+Wisconsin,Fond du Lac County,05000US55039,8.7
+Wisconsin,Forest County,05000US55041,12.5
+Wisconsin,Grant County,05000US55043,8.2
+Wisconsin,Green County,05000US55045,10.5
+Wisconsin,Green Lake County,05000US55047,11.4
+Wisconsin,Iowa County,05000US55049,8.6
+Wisconsin,Iron County,05000US55051,12.4
+Wisconsin,Jackson County,05000US55053,9.8
+Wisconsin,Jefferson County,05000US55055,7.7
+Wisconsin,Juneau County,05000US55057,11.6
+Wisconsin,Kenosha County,05000US55059,8.9
+Wisconsin,Kewaunee County,05000US55061,9.5
+Wisconsin,La Crosse County,05000US55063,8.1
+Wisconsin,Lafayette County,05000US55065,9.3
+Wisconsin,Langlade County,05000US55067,9.8
+Wisconsin,Lincoln County,05000US55069,9.5
+Wisconsin,Manitowoc County,05000US55071,8.6
+Wisconsin,Marathon County,05000US55073,9.1
+Wisconsin,Marinette County,05000US55075,11.5
+Wisconsin,Marquette County,05000US55077,12.1
+Wisconsin,Menominee County,05000US55078,13.9
+Wisconsin,Milwaukee County,05000US55079,10.1
+Wisconsin,Monroe County,05000US55081,8.9
+Wisconsin,Oconto County,05000US55083,9.5
+Wisconsin,Oneida County,05000US55085,10.1
+Wisconsin,Outagamie County,05000US55087,8.5
+Wisconsin,Ozaukee County,05000US55089,9.1
+Wisconsin,Pepin County,05000US55091,11.7
+Wisconsin,Pierce County,05000US55093,8.6
+Wisconsin,Polk County,05000US55095,11
+Wisconsin,Portage County,05000US55097,7.5
+Wisconsin,Price County,05000US55099,12.3
+Wisconsin,Racine County,05000US55101,10.6
+Wisconsin,Richland County,05000US55103,9.5
+Wisconsin,Rock County,05000US55105,10.2
+Wisconsin,Rusk County,05000US55107,10.1
+Wisconsin,St. Croix County,05000US55109,7.2
+Wisconsin,Sauk County,05000US55111,10.7
+Wisconsin,Sawyer County,05000US55113,11
+Wisconsin,Shawano County,05000US55115,10.1
+Wisconsin,Sheboygan County,05000US55117,9.7
+Wisconsin,Taylor County,05000US55119,9
+Wisconsin,Trempealeau County,05000US55121,8.9
+Wisconsin,Vernon County,05000US55123,9
+Wisconsin,Vilas County,05000US55125,12.2
+Wisconsin,Walworth County,05000US55127,7.8
+Wisconsin,Washburn County,05000US55129,10.5
+Wisconsin,Washington County,05000US55131,8.2
+Wisconsin,Waukesha County,05000US55133,7.9
+Wisconsin,Waupaca County,05000US55135,9.9
+Wisconsin,Waushara County,05000US55137,10.6
+Wisconsin,Winnebago County,05000US55139,8.6
+Wisconsin,Wood County,05000US55141,8.1
+Wyoming,Albany County,05000US56001,6.9
+Wyoming,Big Horn County,05000US56003,11.7
+Wyoming,Campbell County,05000US56005,7
+Wyoming,Carbon County,05000US56007,8.2
+Wyoming,Converse County,05000US56009,10.2
+Wyoming,Crook County,05000US56011,8.9
+Wyoming,Fremont County,05000US56013,9.6
+Wyoming,Goshen County,05000US56015,9
+Wyoming,Hot Springs County,05000US56017,11
+Wyoming,Johnson County,05000US56019,8.7
+Wyoming,Laramie County,05000US56021,10.1
+Wyoming,Lincoln County,05000US56023,8.6
+Wyoming,Natrona County,05000US56025,9
+Wyoming,Niobrara County,05000US56027,8.4
+Wyoming,Park County,05000US56029,8
+Wyoming,Platte County,05000US56031,8.8
+Wyoming,Sheridan County,05000US56033,9.8
+Wyoming,Sublette County,05000US56035,6.9
+Wyoming,Sweetwater County,05000US56037,8.1
+Wyoming,Teton County,05000US56039,4.8
+Wyoming,Uinta County,05000US56041,9
+Wyoming,Washakie County,05000US56043,12
+Wyoming,Weston County,05000US56045,10
+Puerto Rico,Adjuntas Municipio,05000US72001,21.8
+Puerto Rico,Aguada Municipio,05000US72003,16.1
+Puerto Rico,Aguadilla Municipio,05000US72005,16
+Puerto Rico,Aguas Buenas Municipio,05000US72007,16.8
+Puerto Rico,Aibonito Municipio,05000US72009,14.9
+Puerto Rico,Añasco Municipio,05000US72011,17.9
+Puerto Rico,Arecibo Municipio,05000US72013,16.7
+Puerto Rico,Arroyo Municipio,05000US72015,18.9
+Puerto Rico,Barceloneta Municipio,05000US72017,17.5
+Puerto Rico,Barranquitas Municipio,05000US72019,14.4
+Puerto Rico,Bayamón Municipio,05000US72021,15.2
+Puerto Rico,Cabo Rojo Municipio,05000US72023,17.7
+Puerto Rico,Caguas Municipio,05000US72025,15.3
+Puerto Rico,Camuy Municipio,05000US72027,17.1
+Puerto Rico,Canóvanas Municipio,05000US72029,15.4
+Puerto Rico,Carolina Municipio,05000US72031,16.1
+Puerto Rico,Cataño Municipio,05000US72033,15.9
+Puerto Rico,Cayey Municipio,05000US72035,14.3
+Puerto Rico,Ceiba Municipio,05000US72037,18.5
+Puerto Rico,Ciales Municipio,05000US72039,17.9
+Puerto Rico,Cidra Municipio,05000US72041,13.6
+Puerto Rico,Coamo Municipio,05000US72043,18
+Puerto Rico,Comerío Municipio,05000US72045,15.5
+Puerto Rico,Corozal Municipio,05000US72047,16.4
+Puerto Rico,Culebra Municipio,05000US72049,24.3
+Puerto Rico,Dorado Municipio,05000US72051,14.7
+Puerto Rico,Fajardo Municipio,05000US72053,19
+Puerto Rico,Florida Municipio,05000US72054,16.4
+Puerto Rico,Guánica Municipio,05000US72055,19.8
+Puerto Rico,Guayama Municipio,05000US72057,17.1
+Puerto Rico,Guayanilla Municipio,05000US72059,18.7
+Puerto Rico,Guaynabo Municipio,05000US72061,13
+Puerto Rico,Gurabo Municipio,05000US72063,13.9
+Puerto Rico,Hatillo Municipio,05000US72065,16.1
+Puerto Rico,Hormigueros Municipio,05000US72067,18.8
+Puerto Rico,Humacao Municipio,05000US72069,16.3
+Puerto Rico,Isabela Municipio,05000US72071,16.8
+Puerto Rico,Jayuya Municipio,05000US72073,17.2
+Puerto Rico,Juana Díaz Municipio,05000US72075,16
+Puerto Rico,Juncos Municipio,05000US72077,14.6
+Puerto Rico,Lajas Municipio,05000US72079,20.4
+Puerto Rico,Lares Municipio,05000US72081,18.3
+Puerto Rico,Las Marías Municipio,05000US72083,19.7
+Puerto Rico,Las Piedras Municipio,05000US72085,15.5
+Puerto Rico,Loíza Municipio,05000US72087,16.7
+Puerto Rico,Luquillo Municipio,05000US72089,19.1
+Puerto Rico,Manatí Municipio,05000US72091,19.3
+Puerto Rico,Maricao Municipio,05000US72093,19.3
+Puerto Rico,Maunabo Municipio,05000US72095,17.8
+Puerto Rico,Mayagüez Municipio,05000US72097,16.8
+Puerto Rico,Moca Municipio,05000US72099,16.9
+Puerto Rico,Morovis Municipio,05000US72101,16.5
+Puerto Rico,Naguabo Municipio,05000US72103,17.4
+Puerto Rico,Naranjito Municipio,05000US72105,16
+Puerto Rico,Orocovis Municipio,05000US72107,16.6
+Puerto Rico,Patillas Municipio,05000US72109,20.1
+Puerto Rico,Peñuelas Municipio,05000US72111,17.3
+Puerto Rico,Ponce Municipio,05000US72113,16.3
+Puerto Rico,Quebradillas Municipio,05000US72115,17.4
+Puerto Rico,Rincón Municipio,05000US72117,17.5
+Puerto Rico,Río Grande Municipio,05000US72119,17.2
+Puerto Rico,Sabana Grande Municipio,05000US72121,18.6
+Puerto Rico,Salinas Municipio,05000US72123,18.6
+Puerto Rico,San Germán Municipio,05000US72125,16.6
+Puerto Rico,San Juan Municipio,05000US72127,13.9
+Puerto Rico,San Lorenzo Municipio,05000US72129,16.5
+Puerto Rico,San Sebastián Municipio,05000US72131,19.2
+Puerto Rico,Santa Isabel Municipio,05000US72133,15
+Puerto Rico,Toa Alta Municipio,05000US72135,13.1
+Puerto Rico,Toa Baja Municipio,05000US72137,14.4
+Puerto Rico,Trujillo Alto Municipio,05000US72139,13.7
+Puerto Rico,Utuado Municipio,05000US72141,18.1
+Puerto Rico,Vega Alta Municipio,05000US72143,16.2
+Puerto Rico,Vega Baja Municipio,05000US72145,17.7
+Puerto Rico,Vieques Municipio,05000US72147,22.6
+Puerto Rico,Villalba Municipio,05000US72149,16.1
+Puerto Rico,Yabucoa Municipio,05000US72151,16.6
+Puerto Rico,Yauco Municipio,05000US72153,17.2
